@@ -9,8 +9,8 @@
 - arc authority: `ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md`;
 - chapter range: Chapters 001-030;
 - chapter titles: provisional working titles from `300_CHAPTER_ROADMAP.md` until individually approved;
-- prose status: no prose created yet;
-- continuation: Volume 02 and Chapters 031-300 remain provisional.
+- prose status: Chapters 001-030 drafted with per-chapter QA; all remain `UNCERTIFIED - author prose approval pending`;
+- continuation: Volume 02 and Chapters 031-300 remain provisional until Volume 01 exit reconciliation is committed.
 
 This file promotes Volume 01 from the provisional roadmap into the active parent authority for its opening materials and Chapters 001-030. It does not finalize the entire ten-volume publication architecture.
 
@@ -58,5 +58,7 @@ Introduce Red Jackal in his original world as a passionate Deadpool fan facing d
 
 - the volume should leave the mortal world aware that an impossible, unregistered beginner exists;
 - exact survival event, witnesses, relationships, location, and consequences: `UNKNOWN / NOT ESTABLISHED` until chapter planning;
-- Volume 02 entry state: not yet authorized;
+- Volume 01 exit state: Crosswind Beginner's Office; Red Jackal, Nera Vale, Tomas, and Bitey are provisionally sponsored;
+- Volume 02 entry pressure: deliver the sealed Beginner's Office assignment to the eastern archive while following the moving-route and missing-arrival thread;
+- Volume 02 entry state: pending separate authority promotion;
 - Chapters 031-300: remain outside this volume authority.
