@@ -47,4 +47,8 @@
 
 ## QA result
 
-To be completed after prose creation.
+- Chapter 002 word count: 1,790; length gate PASS;
+- Human-Prose Gate: PASS in `CHAPTER_002_DRAFT_QA.md`;
+- exit state: gray maintenance door open; unknown presence noticed the summoning chamber;
+- Story Memory: `FS-009` reinforced in draft, not canonized;
+- certification: `UNCERTIFIED - author prose approval pending`.
