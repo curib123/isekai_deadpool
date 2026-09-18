@@ -1,15 +1,15 @@
-# Volume 02 - Red Jackal Tells You: The Beginner Who Wouldn't Die
+# Volume 02 - Red Jackal Tells You: Hollow Archive
 
 ## Authority and status
 
 - volume number: 02;
-- volume title: The Beginner Who Wouldn't Die;
-- status: APPROVED ROADMAP / ACTIVE DRAFTING AUTHORITY;
+- volume title: Hollow Archive;
+- status: PROVISIONAL DESTINATION-ARC AUTHORITY / STRUCTURAL RECHECK;
 - parent story authority: `MASTER_STORY_PLAN.md`;
-- arc authority: `ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md`;
+- destination-arc authority: this file is the complete Volume 02 destination-arc authority;
 - prior volume authority: `08_PLANNING/VOLUME_01_THE_SUMMONING_ERROR.md`;
 - chapter range: Chapters 031-060;
-- prose status: Volume 01 exit is drafted and QA-recorded; Volume 02 chapters are authorized for sequential drafting under the action-pacing recheck;
+- prose status: Volume 01 exit is drafted and QA-recorded; Volume 02 chapters require destination-arc recheck before further drafting;
 - certification: all Volume 02 prose remains `UNCERTIFIED - author prose approval pending` until author review.
 
 ## Entry state inherited from Volume 01
@@ -25,18 +25,23 @@
 
 ## Volume promise
 
-Place Red Jackal inside a local beginner institution while preserving his unrestricted imagination and full fourth-wall authority. Let ordinary work, delivery rules, local records, and route bureaucracy create pressure without ever turning into a limiter on his ability. Expand the world beyond Bellwether and Crosswind while keeping the missing arrival, registry anomaly, and Great Design mysteries open.
+Take Red Jackal and his companions into Hollow Archive, a destination where delivery records, missing arrivals, underground routes, and living documents turn ordinary bureaucracy into dark-fantasy danger. Preserve his unrestricted imagination and full fourth-wall authority while giving the archive, its workers, and its missing people a local story that can be resolved within this volume.
 
-## Action-adventure pacing contract
+## Complete destination-arc contract
 
-- environment: the eastern archive route, underground passages, cursed frontier pockets, threatened settlements, and the return path toward Crosswind;
-- local problem: the archive and route network are connected to a frontier survival crisis that can harm ordinary people even when Red Jackal can rewrite events;
+- destination identity: Hollow Archive;
+- culture and atmosphere: record-keeping communities, delivery customs, sealed doors, living shelves, underground routes, and fear of being erased from history;
+- local problem: the archive's missing-arrival system is consuming, hiding, or misrouting people and records, creating a local survival crisis;
+- primary opposing force: `UNKNOWN / NOT ESTABLISHED`; the antagonist must be tied to the archive's local failure and possess a motive, history, and influence on the destination;
+- local resolution: the Hollow Archive's immediate missing-arrival crisis must be resolved or contained before the cast leaves;
+- overarching clue: contradictory records reveal another layer of Red Jackal's unregistered existence without explaining the reincarnation cause;
+- departure state: the archive conflict closes with a cost and a concrete route toward Volume 03's Blackglass Ruins;
 - chapter rhythm: every two or three chapters must contain a physical danger, pursuit, fight, rescue, escape, or survival decision;
 - five-chapter movements: each block must contain one distinct action set piece with a clear objective, terrain, tactical problem, cost, and changed exit state;
 - comedy: keep jokes relatable through workplace confusion, bad logistics, social embarrassment, unequal competence, fear, money, hunger, and exhausted arguments; let Nera, Tomas, Bitey, and institutions react in their own voices;
 - dark consequence: injuries, destroyed records, damaged trust, local fear, and institutional responsibility continue after the punchline;
 - quality gate: no chapter exists only to walk, explain, inspect, or repeat a mystery. Every chapter must alter location, danger, knowledge, trust, resource, injury, reputation, or objective;
-- prose recheck: Chapters 031-033 are drafted but remain uncertified; the structural action contract may require a later locked-prose revision.
+- prose recheck: Chapters 031-033 are drafted but remain uncertified; the destination-arc contract may require locked-prose revision and a complete local resolution before certification.
 
 ## Six five-chapter movements
 

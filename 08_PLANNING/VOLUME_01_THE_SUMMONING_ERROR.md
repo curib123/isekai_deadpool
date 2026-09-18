@@ -1,16 +1,16 @@
-# Volume 01 - Red Jackal Tells You: The Summoning Error
+# Volume 01 - Red Jackal Tells You: Ashfall Frontier
 
 ## Authority and status
 
 - volume number: 01;
-- volume title: The Summoning Error;
-- status: APPROVED ROADMAP / ACTIVE DRAFTING AUTHORITY / ACTION-PACING RECHECK;
+- volume title: Ashfall Frontier;
+- status: APPROVED DESTINATION-ARC AUTHORITY / ACTIVE STRUCTURAL RECHECK;
 - parent story authority: `MASTER_STORY_PLAN.md`;
-- arc authority: `ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md`;
+- destination-arc authority: this file is the complete Volume 01 destination-arc authority;
 - chapter range: Chapters 001-030;
 - chapter titles: provisional working titles from `300_CHAPTER_ROADMAP.md` until individually approved;
-- prose status: Chapters 001-030 drafted with per-chapter QA; all remain `UNCERTIFIED - author prose approval pending`;
-- continuation: Volume 02 and Chapters 031-300 remain provisional until Volume 01 exit reconciliation is committed.
+- prose status: Chapters 001-030 drafted with per-chapter QA; all remain `UNCERTIFIED - author prose approval pending` and require destination-arc closure review;
+- continuation: Volume 02 begins a new destination arc after Volume 01 resolves its local conflict; Chapters 031-300 remain governed by their own volume authorities.
 
 This file promotes Volume 01 from the provisional roadmap into the active parent authority for its opening materials and Chapters 001-030. It does not finalize the entire ten-volume publication architecture.
 
@@ -25,7 +25,18 @@ This file promotes Volume 01 from the provisional roadmap into the active parent
 
 ## Volume promise
 
-Introduce Red Jackal in his original world as a passionate Deadpool fan facing death, then carry him into the medieval fantasy world where the System cannot define him. Establish the permanent first-person storyteller voice, direct reader relationship, unrestricted imagination anomaly, full fourth-wall authority, abnormal regeneration, and the fixed undefined System status while keeping the world consequential.
+Introduce Red Jackal in his original world as a passionate Deadpool fan facing death, then carry him into Ashfall Frontier, a dangerous region of isolated settlements, guild outposts, monster-infested roads, cursed wilderness, abandoned ruins, caravans, travelers, and mercenaries. Establish the permanent first-person storyteller voice, direct reader relationship, unrestricted imagination anomaly, full fourth-wall authority, abnormal regeneration, and the fixed undefined System status while keeping the destination and its people consequential.
+
+## Complete destination-arc contract
+
+- destination identity: Ashfall Frontier;
+- culture and atmosphere: fragile frontier settlements, practical guild outposts, caravan economies, traveler superstition, improvised defenses, and civilization thinning beyond the roads;
+- local problem: the frontier route and registry failure threaten travelers and settlements, turning Red Jackal's arrival into a local survival crisis;
+- primary opposing force: `UNKNOWN / NOT ESTABLISHED`; the final antagonist must be tied to the frontier's route failure and have a local motive, history, and influence on the environment;
+- local resolution: the Ashfall Frontier crisis must be resolved or contained within Volume 01 before the cast departs;
+- overarching clue: repeated System failures, contradictory registry records, and evidence that Red Jackal's arrival was not accounted for;
+- departure state: the local conflict ends with a cost and a concrete route into Volume 02's new destination, Hollow Archive;
+- structural revision boundary: current prose remains uncertified and may require locked-prose revision to deliver this complete local resolution.
 
 ## Action-adventure pacing contract
 
