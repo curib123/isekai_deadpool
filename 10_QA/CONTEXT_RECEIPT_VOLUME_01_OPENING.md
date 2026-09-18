@@ -79,12 +79,12 @@
 
 ## Post-work reconciliation
 
-To be completed after prose creation and QA.
-
-- exit location/time: pending prose;
-- characters present/alive/available: pending prose;
-- knowledge changes: pending prose;
-- mystery/foreshadowing deltas: pending prose;
-- Chapter 001 word count: pending prose;
-- Human-Prose Gate: pending QA;
-- certification: pending QA.
+- synopsis: drafted in first-person Red Jackal voice;
+- prologue: drafted in first-person Red Jackal voice;
+- Chapter 001 word count: 1,843; length gate PASS;
+- exit location/time: white summoning chamber or equivalent transition space; exact location UNKNOWN / NOT ESTABLISHED;
+- characters present/alive/available: Red Jackal and an unnamed woman; no long-term companion established;
+- reader knowledge: permanent reader-talk and unrestricted fourth-wall/narrative-editing authority are clear;
+- mystery/foreshadowing deltas: draft QA identifies `FS-009` as demonstrated but not canonized;
+- Human-Prose Gate: PASS in `CHAPTER_001_DRAFT_QA.md`;
+- certification: `UNCERTIFIED - author prose approval pending`.
