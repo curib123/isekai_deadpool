@@ -15,6 +15,9 @@
 - The master story plan remains the story-direction authority; new files may not silently invent canon.
 - Planned ledger entries are not planted or canonized until approved prose provides evidence.
 - The protagonist never becomes Wade Wilson and never receives normal System progression.
+- The protagonist's approved narrative name is Red Jackal; his original Earth name remains `UNKNOWN / NOT ESTABLISHED`.
+- Red Jackal's imagination anomaly has no cooldown, cost, focus requirement, understanding requirement, blocker, counter, suppression, or known limit.
+- Red Jackal's failure to use the imagination anomaly is always a character choice or story decision, never a mechanical inability.
 - Fourth-wall development remains gradual and cannot begin as a true supernatural power.
 - Every future numbered chapter targets at least 1,000 words and records its actual count.
 - The 300-chapter roadmap is provisional; Chapter 300 is a checkpoint, not the final ending.
@@ -155,7 +158,7 @@ Expected: every unestablished name, date, location, and biography remains explic
 
 - [ ] Step 1: Create the power-system bible.
 
-Define System fields and failure terms, regeneration strengths and counters, magic as an unestablished framework with future authority requirements, Fate and Great Design relationship, fourth-wall stages, resource/cost/limit rules, and tension safeguards. Include a rule that the protagonist cannot level, gain a normal class, or receive hidden System evolution.
+Define System fields and failure terms, Red Jackal's foreign-code/virus anomaly, his unrestricted imagination manifestation, regeneration strengths and counters, magic as an unestablished framework with future authority requirements, Fate and Great Design relationship, fourth-wall stages, resource/cost/limit rules for non-anomaly abilities, and tension safeguards. Include a rule that the protagonist cannot level, gain a normal class, or receive hidden System evolution.
 
 - [ ] Step 2: Create the progression roadmap.
 

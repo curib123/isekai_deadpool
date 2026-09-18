@@ -6,7 +6,7 @@
 
 ## Goal
 
-Expand the pre-production story workspace with durable writing rules, comedy guidance, planned mystery and foreshadowing tracking, world and character history planning, power-system authority, non-System progression planning, and a provisional 300-chapter roadmap split across ten volumes.
+Expand the pre-production story workspace with durable writing rules, comedy guidance, planned mystery and foreshadowing tracking, Red Jackal's foreign-code anomaly, world and character history planning, power-system authority, non-System progression planning, and a provisional 300-chapter roadmap split across ten volumes.
 
 ## Authority boundary
 
@@ -15,6 +15,10 @@ The repository workflow remains controlled by AGENTS.md and 00_PROJECT/. The mas
 A planned ledger entry is not canonized prose. Foreshadowing uses PLANNED until approved prose contains the seed, then PLANTED, REINFORCED, PAYOFF_DUE, or PAID_OFF as evidence permits. Mysteries remain OPEN or PARTIALLY_REVEALED until prose changes their status.
 
 The 300-chapter roadmap is an author-approved planning horizon. It is not a locked final chapter count, and Chapter 300 is a checkpoint with continuation hooks for Chapter 301 and beyond.
+
+Red Jackal's imagination ability is unrestricted. It has no cooldown, resource cost, focus requirement, understanding requirement, blocker, counter, suppression, or known limit. If he chooses to imagine an effect, reality can express it. This ability is an anomaly of his foreign-code existence, not a System grant and not the same thing as fourth-wall awareness.
+
+The world still follows its own System and causality for everyone else. Red Jackal behaves like foreign code or a virus inside those rules, which is why the System cannot detect, classify, or register him normally. Any failure to use the imagination ability must be a character choice, ignorance, distraction, or emotional decision, never an imposed mechanical limitation.
 
 ## Design units
 
@@ -50,6 +54,8 @@ Planned foreshadowing:
 
 Every entry remains planned/open until approved prose provides evidence.
 
+The Red Jackal addition may later add MY-009 for the source of the foreign-code intrusion and FS-009 for the first reality-expression event. Both remain planned until prose establishes them.
+
 ### History and character authority
 
 - Add 03_WORLD/HISTORY_PLAN.md for world, System, divine, Fate, Great Design, Demon King cycles, mortal civilization, and reincarnation history.
@@ -60,6 +66,7 @@ Every entry remains planned/open until approved prose provides evidence.
 
 - Add 04_POWER_SYSTEMS/POWER_SYSTEM_BIBLE.md for System terminology, regeneration, magic, Fate, Great Design, counters, costs, and limits.
 - Add 05_EVOLUTION/PROGRESSION_ROADMAP.md for non-System improvement, identity progression, fourth-wall stages, and future boundaries. No levels, hidden class, or secret System evolution may be introduced.
+- Record unrestricted imagination as an active anomaly ability from the opening, separate from earned non-System mastery.
 
 ### 300-chapter roadmap
 
@@ -85,9 +92,8 @@ The roadmap may contain provisional working directions, but it must label them a
 - Writing rules explicitly enforce natural prose and the 1,000-word minimum.
 - Every new MY/FS entry is marked planned/open rather than planted/resolved.
 - History and character files preserve unknown facts.
-- Power-system rules preserve UNDEFINED, no normal System progression, regeneration counters, and Fate non-immunity.
+- Power-system rules preserve UNDEFINED, no normal System progression, regeneration counters, Fate non-immunity, and unrestricted Red Jackal imagination.
 - Roadmap contains 10 volumes and 30 chapter slots per volume, with five arcs mapped two volumes each.
 - Chapter 300 has an open continuation contract.
 - No manuscript prose, synopsis, or export is created.
 - No Docker files are added; Docker is unrelated to this story-documentation scope.
-
