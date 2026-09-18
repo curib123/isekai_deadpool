@@ -33,6 +33,14 @@ If a required fact is missing, record `UNKNOWN / NOT ESTABLISHED`. If equal-auth
 ## Purpose
 What meaningful story function does this chapter serve?
 
+## Prose Length Gate
+
+This gate applies to numbered chapter prose only. Planning notes, synopsis, context receipts, and QA records are not chapter prose and are not subject to this minimum.
+
+- minimum target for numbered chapter prose: **1,000 words**
+- actual prose word count:
+- length result: `PASS` when the actual count is 1,000 or more; otherwise `UNCERTIFIED` unless the author explicitly approves an exception
+
 ## Entry State
 - timeline/order position:
 - location/time:
@@ -164,6 +172,7 @@ For any presentation-only locked revision, also record `Canon changed: NO`. For 
 - [ ] no future power/knowledge/reveal was used early
 - [ ] no locked event/cause/consequence was silently changed
 - [ ] chapter exit state is recorded
+- [ ] actual prose word count and the Prose Length Gate result are recorded
 - [ ] story-memory deltas are reconciled when applicable
 - [ ] Human-Prose Gate was completed for prose work
 - [ ] style statistics/pattern counts were treated as diagnostics only
