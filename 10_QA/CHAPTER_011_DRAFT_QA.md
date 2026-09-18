@@ -1,4 +1,4 @@
-# Chapter 011 Draft QA - Red Jackal Tells You: The Summoning Error - How Far Can the Rule Bend?
+# Chapter 011 Draft QA - Red Jackal Tells You: Bellwether - Why Is the Guild Afraid of My Status?
 
 ## Draft status
 

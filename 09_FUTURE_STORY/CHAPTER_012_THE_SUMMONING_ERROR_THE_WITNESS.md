@@ -1,4 +1,4 @@
-# Chapter 012 - Red Jackal Tells You: The Summoning Error - Who Is the Witness?
+# Chapter 012 - Red Jackal Tells You: Bellwether - Who Attacked the Registry?
 
 Tomas wrote down my first official act in Bellwether.
 

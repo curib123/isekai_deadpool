@@ -1,4 +1,4 @@
-# Chapter 025 Entry State - Red Jackal Tells You: The Summoning Error - Why Does the Answer Move?
+# Chapter 025 Entry State - Red Jackal Tells You: The Unregistered Road - What Did the Answer Cost?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

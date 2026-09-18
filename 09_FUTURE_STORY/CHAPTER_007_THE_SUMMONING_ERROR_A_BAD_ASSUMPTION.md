@@ -1,4 +1,4 @@
-# Chapter 007 - Red Jackal Tells You: The Summoning Error - Which Assumption Was Bad?
+# Chapter 007 - Red Jackal Tells You: The Valley Road - Can a Beginner Survive an Ambush?
 
 The patrol captain pointed a crossbow at my chest.
 

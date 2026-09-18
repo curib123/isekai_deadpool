@@ -1,4 +1,4 @@
-# Chapter 013 Draft QA - Red Jackal Tells You: The Summoning Error - Who Asked for This Lesson?
+# Chapter 013 Draft QA - Red Jackal Tells You: Bellwether - Can a Joke Stop a Panic?
 
 ## Draft status
 

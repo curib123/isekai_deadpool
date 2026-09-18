@@ -1,4 +1,4 @@
-# Chapter 005 - Red Jackal Tells You: The Summoning Error - How Quiet Is the Quiet Before?
+# Chapter 005 - Red Jackal Tells You: The Summoning Error - What Is Waiting Beyond the Light?
 
 The locals did not meet us.
 

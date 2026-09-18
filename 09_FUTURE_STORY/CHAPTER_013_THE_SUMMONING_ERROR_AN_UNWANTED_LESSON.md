@@ -1,4 +1,4 @@
-# Chapter 013 - Red Jackal Tells You: The Summoning Error - Who Asked for This Lesson?
+# Chapter 013 - Red Jackal Tells You: Bellwether - Can a Joke Stop a Panic?
 
 Tomas's report made me popular with exactly one child and unpopular with almost everyone who preferred simple categories.
 

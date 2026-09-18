@@ -1,4 +1,4 @@
-# Chapter 020 Entry State - Red Jackal Tells You: The Summoning Error - What Kind of Brave Is This?
+# Chapter 020 Entry State - Red Jackal Tells You: The Guild Escort - Did the Road Just Bite Back?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

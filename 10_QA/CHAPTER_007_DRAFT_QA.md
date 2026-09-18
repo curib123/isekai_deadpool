@@ -1,4 +1,4 @@
-# Chapter 007 Draft QA - Red Jackal Tells You: The Summoning Error - Which Assumption Was Bad?
+# Chapter 007 Draft QA - Red Jackal Tells You: The Valley Road - Can a Beginner Survive an Ambush?
 
 ## Draft status
 

@@ -9,7 +9,7 @@
 - arc authority: `ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md`;
 - prior volume authority: `08_PLANNING/VOLUME_01_THE_SUMMONING_ERROR.md`;
 - chapter range: Chapters 031-060;
-- prose status: Volume 01 exit is drafted and QA-recorded; Volume 02 chapters are authorized for sequential drafting;
+- prose status: Volume 01 exit is drafted and QA-recorded; Volume 02 chapters are authorized for sequential drafting under the action-pacing recheck;
 - certification: all Volume 02 prose remains `UNCERTIFIED - author prose approval pending` until author review.
 
 ## Entry state inherited from Volume 01
@@ -26,6 +26,28 @@
 ## Volume promise
 
 Place Red Jackal inside a local beginner institution while preserving his unrestricted imagination and full fourth-wall authority. Let ordinary work, delivery rules, local records, and route bureaucracy create pressure without ever turning into a limiter on his ability. Expand the world beyond Bellwether and Crosswind while keeping the missing arrival, registry anomaly, and Great Design mysteries open.
+
+## Action-adventure pacing contract
+
+- environment: the eastern archive route, underground passages, cursed frontier pockets, threatened settlements, and the return path toward Crosswind;
+- local problem: the archive and route network are connected to a frontier survival crisis that can harm ordinary people even when Red Jackal can rewrite events;
+- chapter rhythm: every two or three chapters must contain a physical danger, pursuit, fight, rescue, escape, or survival decision;
+- five-chapter movements: each block must contain one distinct action set piece with a clear objective, terrain, tactical problem, cost, and changed exit state;
+- comedy: keep jokes relatable through workplace confusion, bad logistics, social embarrassment, unequal competence, fear, money, hunger, and exhausted arguments; let Nera, Tomas, Bitey, and institutions react in their own voices;
+- dark consequence: injuries, destroyed records, damaged trust, local fear, and institutional responsibility continue after the punchline;
+- quality gate: no chapter exists only to walk, explain, inspect, or repeat a mystery. Every chapter must alter location, danger, knowledge, trust, resource, injury, reputation, or objective;
+- prose recheck: Chapters 031-033 are drafted but remain uncertified; the structural action contract may require a later locked-prose revision.
+
+## Six five-chapter movements
+
+| Chapters | Movement | Action promise | Local consequence |
+| --- | --- | --- | --- |
+| 031-035 | The Archive That Eats Deliveries | the sealed delivery opens a living-record survival problem | the archive reveals a moving route and a missing arrival without resolving either |
+| 036-040 | The Underground Route | a shifting corridor chase forces the group to choose between safety and evidence | the group exits with a route clue and a new obligation |
+| 041-045 | The Cursed Frontier | a settlement or wilderness pocket faces a standalone curse or predator crisis | the local people survive or pay a visible cost; the route problem becomes public |
+| 046-050 | The Broken Party | action separates the companions and makes cooperation necessary | trust changes through a costly rescue or refusal |
+| 051-055 | The Beginner's Office in Danger | the institution that assigned the work becomes the target of the local crisis | the guild must act, accept damage, and choose what to record |
+| 056-060 | The First Impossible Survival | the local route crisis reaches its focused Arc 1 climax | Red Jackal survives an event that should kill a beginner; the wider world hears about it |
 
 ## Protected facts
 

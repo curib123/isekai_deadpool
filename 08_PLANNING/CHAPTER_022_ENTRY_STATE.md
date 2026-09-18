@@ -1,4 +1,4 @@
-# Chapter 022 Entry State - Red Jackal Tells You: The Summoning Error - Where Does the Rumor Travel?
+# Chapter 022 Entry State - Red Jackal Tells You: The Unregistered Road - Who Set the Trap?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

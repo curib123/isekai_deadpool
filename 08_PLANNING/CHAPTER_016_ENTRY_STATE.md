@@ -1,4 +1,4 @@
-# Chapter 016 Entry State - Red Jackal Tells You: The Summoning Error - Whose Name Was Spoken?
+# Chapter 016 Entry State - Red Jackal Tells You: The Guild Escort - Why Are the Wardens Following Us?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

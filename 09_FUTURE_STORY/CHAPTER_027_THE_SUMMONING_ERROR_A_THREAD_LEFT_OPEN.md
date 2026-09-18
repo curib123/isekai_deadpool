@@ -1,4 +1,4 @@
-# Chapter 027 - Red Jackal Tells You: The Summoning Error - Can a Thread Stay Open?
+# Chapter 027 - Red Jackal Tells You: The Moving Checkpoint - Can a Road Refuse a Name?
 
 The thing beneath the white grass did not come out.
 

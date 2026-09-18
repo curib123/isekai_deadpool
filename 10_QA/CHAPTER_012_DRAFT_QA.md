@@ -1,4 +1,4 @@
-# Chapter 012 Draft QA - Red Jackal Tells You: The Summoning Error - Who Is the Witness?
+# Chapter 012 Draft QA - Red Jackal Tells You: Bellwether - Who Attacked the Registry?
 
 ## Draft status
 

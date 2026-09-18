@@ -1,4 +1,4 @@
-# Chapter 003 Entry State - Red Jackal Tells You: The Summoning Error - What Did He Notice?
+# Chapter 003 Entry State - Red Jackal Tells You: The Summoning Error - What Noticed Us First?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

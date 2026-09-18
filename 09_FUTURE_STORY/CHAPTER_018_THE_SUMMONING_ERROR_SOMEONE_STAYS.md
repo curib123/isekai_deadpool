@@ -1,4 +1,4 @@
-# Chapter 018 - Red Jackal Tells You: The Summoning Error - Who Decides to Stay?
+# Chapter 018 - Red Jackal Tells You: The Guild Escort - Can We Protect the Person Who Hates Us?
 
 Tomas was supposed to leave at sunset.
 

@@ -1,4 +1,4 @@
-# Chapter 022 Draft QA - Red Jackal Tells You: The Summoning Error - Where Does the Rumor Travel?
+# Chapter 022 Draft QA - Red Jackal Tells You: The Unregistered Road - Who Set the Trap?
 
 ## Draft status
 

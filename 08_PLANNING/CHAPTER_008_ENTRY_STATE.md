@@ -1,4 +1,4 @@
-# Chapter 008 Entry State - Red Jackal Tells You: The Summoning Error - How Much Pressure Can Build?
+# Chapter 008 Entry State - Red Jackal Tells You: The Valley Road - Who Put Teeth in the Dark?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

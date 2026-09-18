@@ -1,4 +1,4 @@
-# Chapter 024 Entry State - Red Jackal Tells You: The Summoning Error - What Does Trust Cost?
+# Chapter 024 Entry State - Red Jackal Tells You: The Unregistered Road - Can Trust Survive a Monster Attack?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

@@ -1,4 +1,4 @@
-# Chapter 010 Entry State - Red Jackal Tells You: The Summoning Error - Is There Really No Safe Answer?
+# Chapter 010 Entry State - Red Jackal Tells You: The Valley Road - Did We Just Win the Wrong Fight?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

@@ -1,4 +1,4 @@
-# Chapter 009 Draft QA - Red Jackal Tells You: The Summoning Error - What Does Delay Cost?
+# Chapter 009 Draft QA - Red Jackal Tells You: The Valley Road - What Does Regeneration Feel Like?
 
 ## Draft status
 

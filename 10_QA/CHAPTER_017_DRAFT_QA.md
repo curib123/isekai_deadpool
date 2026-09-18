@@ -1,4 +1,4 @@
-# Chapter 017 Draft QA - Red Jackal Tells You: The Summoning Error - What Happens When the Joke Fails?
+# Chapter 017 Draft QA - Red Jackal Tells You: The Guild Escort - What Happens When the Joke Fails?
 
 ## Draft status
 

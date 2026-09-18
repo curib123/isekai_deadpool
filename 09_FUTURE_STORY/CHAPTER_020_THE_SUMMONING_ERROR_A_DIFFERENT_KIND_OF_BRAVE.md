@@ -1,4 +1,4 @@
-# Chapter 020 - Red Jackal Tells You: The Summoning Error - What Kind of Brave Is This?
+# Chapter 020 - Red Jackal Tells You: The Guild Escort - Did the Road Just Bite Back?
 
 The registry tower rang at sunrise.
 

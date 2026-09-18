@@ -1,4 +1,4 @@
-# Chapter 025 Draft QA - Red Jackal Tells You: The Summoning Error - Why Does the Answer Move?
+# Chapter 025 Draft QA - Red Jackal Tells You: The Unregistered Road - What Did the Answer Cost?
 
 ## Draft status
 

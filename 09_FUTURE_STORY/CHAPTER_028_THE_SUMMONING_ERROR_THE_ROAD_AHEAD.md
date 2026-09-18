@@ -1,4 +1,4 @@
-# Chapter 028 - Red Jackal Tells You: The Summoning Error - What Waits on the Road Ahead?
+# Chapter 028 - Red Jackal Tells You: The Moving Checkpoint - Who Is Guarding the Road?
 
 The road beyond the gate was brown, wide, and full of footprints that did not belong to human feet.
 

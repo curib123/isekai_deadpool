@@ -4,7 +4,7 @@
 
 - volume number: 01;
 - volume title: The Summoning Error;
-- status: APPROVED ROADMAP / ACTIVE DRAFTING AUTHORITY;
+- status: APPROVED ROADMAP / ACTIVE DRAFTING AUTHORITY / ACTION-PACING RECHECK;
 - parent story authority: `MASTER_STORY_PLAN.md`;
 - arc authority: `ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md`;
 - chapter range: Chapters 001-030;
@@ -26,6 +26,28 @@ This file promotes Volume 01 from the provisional roadmap into the active parent
 ## Volume promise
 
 Introduce Red Jackal in his original world as a passionate Deadpool fan facing death, then carry him into the medieval fantasy world where the System cannot define him. Establish the permanent first-person storyteller voice, direct reader relationship, unrestricted imagination anomaly, full fourth-wall authority, abnormal regeneration, and the fixed undefined System status while keeping the world consequential.
+
+## Action-adventure pacing contract
+
+- environment: the first frontier route, moving from the summoning breach through mortal roads, settlements, guild spaces, cursed wilderness, and the approach to the eastern archive;
+- local problem: arrival and registry failure turn an ordinary beginner's route into a survival crisis;
+- chapter rhythm: every two or three chapters must contain a physical danger, pursuit, fight, rescue, escape, or survival decision;
+- five-chapter movements: each block must contain one action set piece, a tactical problem, a visible cost, and a changed exit state;
+- comedy: use relatable pressure such as embarrassment, money, bad directions, stubborn pride, awkward teamwork, fear, and exhaustion; references may support the joke but cannot replace character reaction;
+- dark consequence: injury, property damage, debt, fear, reputation, grief, and institutional response remain after the joke;
+- quality gate: no filler travel or repeated inspection scene. If a chapter does not change location, danger, knowledge, trust, resource, injury, reputation, or objective, it requires revision;
+- prose recheck: existing Chapters 001-030 remain uncertified and may require a later locked-prose action revision to meet this contract.
+
+## Six five-chapter movements
+
+| Chapters | Movement | Action promise | Local consequence |
+| --- | --- | --- | --- |
+| 001-005 | The Summoning Breach | death, broken arrival, and first escape from a hostile summoning space | Red Jackal enters the mortal story already impossible to classify |
+| 006-010 | The Valley Hunt | a frontier pursuit and first survival fight force visible choices | the group reaches safety with evidence that something followed them |
+| 011-015 | The Registry District Under Pressure | guild inspection collides with a public attack or containment crisis | the guild records damage and suspicion, not a clean classification |
+| 016-020 | The Guild Escort | the group survives a moving pursuit while trust remains unstable | someone chooses whether Red Jackal is worth protecting |
+| 021-025 | The Unregistered Road | rumor, route danger, and a costly confrontation make his status dangerous | the road points toward a moving archive problem |
+| 026-030 | The Moving Checkpoint | the first local gate tests the group in a focused action set piece | the sealed archive assignment becomes the next physical objective |
 
 ## Entry state
 

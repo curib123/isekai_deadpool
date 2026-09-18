@@ -1,4 +1,4 @@
-# Chapter 029 - Red Jackal Tells You: The Summoning Error - You Do Not Think This Is the Ending, Do You?
+# Chapter 029 - Red Jackal Tells You: The Moving Checkpoint - Are We Leaving or Being Chased?
 
 The eastern route did not lead to a city.
 

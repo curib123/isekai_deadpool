@@ -802,21 +802,44 @@ And if it wasn't:
 
 ---
 
+# Traveling Arc Architecture
+
+The story is an action-adventure journey through changing environments. Each arc should feel like entering a new island, frontier, kingdom, sacred region, or fairy-tale-like world with its own atmosphere, local rules, culture, danger, and problem. The structure may take inspiration from travel adventures, but every location, conflict, faction, and resolution must remain original to this story.
+
+Every arc has two layers:
+
+- a standalone local problem with a local antagonist, disaster, curse, institution, or survival crisis that receives a meaningful resolution;
+- a long-running threat involving Red Jackal's anomaly, identity, System failure, Fate, or the Great Design, which is advanced through clues, consequences, rumors, or changed relationships without replacing the local story.
+
+Arc pacing is quality over quantity. Travel scenes must change location, knowledge, trust, danger, or objective. Every two or three chapters should contain a physical danger, chase, fight, rescue, escape, or survival decision. Every five-chapter movement should contain a distinct action set piece with a tactical problem, a visible cost, and a changed exit state. A joke may arrive during danger or after it, but it cannot erase the damage.
+
+The five provisional environments and local-problem contracts are:
+
+| Arc | Provisional environment | Standalone local problem | Long-thread contribution |
+| --- | --- | --- | --- |
+| Arc 1 | Frontier roads, settlements, cursed wilderness, guild offices, and a living archive route | A beginner delivery and registry failure become a survival crisis that threatens the local route network | Repeated System failures, the missing arrival, and the first public evidence that Red Jackal cannot be classified |
+| Arc 2 | A wild quest frontier with dangerous ruins, changing terrain, and communities that survive outside normal institutions | A seemingly simple quest exposes a local predator, faction dispute, or ruin crisis that forces earned non-System combat growth | Red Jackal's reputation spreads and the world begins treating his existence as a recurring problem |
+| Arc 3 | Demon-held borderlands, fortified roads, and a court or war zone shaped by recurring Demon King history | A demon-side containment or political crisis turns Red Jackal into a target whose survival disrupts local power | Captivity pressure and recovered memories challenge his belief that he is Deadpool |
+| Arc 4 | Sacred cities, divine roads, prophecy sites, or a region where Fate is publicly administered | A prophecy declares a disaster or death inevitable, and the local society must survive its failure | Divination, prophecy, and Fate produce evidence that the Great Design was not built for him |
+| Arc 5 | A strange border of unfinished reality where the Great Design's pressure becomes visible | A local reality crisis forces Red Jackal to choose how he uses an already-unlimited authority | The Great Design directly notices him while the saga remains open beyond Chapter 300 |
+
+These environments and local problems are provisional planning contracts, not prose canon. Exact names, maps, factions, and events require their own authority and entry-state decisions.
+
 # Arc 1 — The Man Who Thinks He's Deadpool
 
 ## Purpose
 
-Introduction.
+Action-adventure arrival.
 
-Comedy.
+Dark-fantasy frontier survival.
 
-Worldbuilding.
+Unexpected comedy under pressure.
 
-System rules.
+Worldbuilding through danger, travel, and conversation.
 
-Guild introduction.
+System failure and guild conflict.
 
-Identity mystery.
+Identity mystery and the first long-thread clues.
 
 ## Plot
 
@@ -832,11 +855,11 @@ The goddess tells him otherwise.
 
 He refuses to believe her.
 
-He eventually arrives in the mortal world.
+He eventually arrives in the mortal world and is pushed through a frontier route that does not know how to receive him.
 
-He joins an adventurer guild.
+He reaches an adventurer guild while local roads, records, and creatures create immediate physical danger.
 
-The guild attempts to inspect him.
+The guild attempts to inspect him while a local crisis turns routine classification into a public survival problem.
 
 The System returns:
 
@@ -858,7 +881,9 @@ Nobody understands what is happening.
 
 He introduces himself as Deadpool anyway.
 
-He receives the lowest practical adventurer classification because nobody knows what else to do with him.
+He receives the lowest practical adventurer classification because nobody knows what else to do with him, then is sent toward a local problem that cannot be solved by paperwork.
+
+The local Arc 1 problem is the frontier route's failure to safely receive, record, and deliver people. The route, guild, archive, and surrounding wilderness remain connected through a standalone survival crisis. The exact antagonist and final form of the route failure are UNKNOWN / NOT ESTABLISHED until chapter authority exists.
 
 ### Arc Ending
 

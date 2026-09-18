@@ -1,4 +1,4 @@
-# Chapter 028 Draft QA - Red Jackal Tells You: The Summoning Error - What Waits on the Road Ahead?
+# Chapter 028 Draft QA - Red Jackal Tells You: The Moving Checkpoint - Who Is Guarding the Road?
 
 ## Draft status
 

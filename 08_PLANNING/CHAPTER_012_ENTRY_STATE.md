@@ -1,4 +1,4 @@
-# Chapter 012 Entry State - Red Jackal Tells You: The Summoning Error - Who Is the Witness?
+# Chapter 012 Entry State - Red Jackal Tells You: Bellwether - Who Attacked the Registry?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

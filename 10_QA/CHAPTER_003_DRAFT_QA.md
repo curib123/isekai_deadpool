@@ -1,4 +1,4 @@
-# Chapter 003 Draft QA - Red Jackal Tells You: The Summoning Error - What Did He Notice?
+# Chapter 003 Draft QA - Red Jackal Tells You: The Summoning Error - What Noticed Us First?
 
 ## Draft status
 

@@ -12,6 +12,8 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - Vary sentence and paragraph length naturally.
 - Use one-line fragments and cinematic formatting only for earned emphasis.
 - Favor light-novel momentum: begin with a live problem, keep scenes active, and let conversation create movement instead of pausing the story for lectures.
+- Treat every arc as a new travel environment with a local adventure, a local danger, and a local emotional texture. The world should feel larger because Red Jackal has gone somewhere new, not because the narration lists more lore.
+- In action scenes, keep the reader oriented through clear movement, terrain, intention, impact, and aftermath. A funny line can sharpen the danger, but it cannot make consequences disappear.
 - Use simple English with clear emotional cause and effect. Short sentences may carry danger or comedy, while longer sentences may carry close thought or disbelief.
 
 ## Red Jackal as storyteller

@@ -17,6 +17,14 @@ This boundary file records the Arc 3 escalation and identity pressure without in
 - begin restoring memories from the protagonist's original life;
 - challenge the belief that he is Deadpool.
 
+## Environment and standalone-problem contract
+
+- provisional environment: demon-held borderlands, fortified roads, war-damaged settlements, and a court or military zone shaped by recurring Demon King history;
+- standalone local problem: a demon-side containment or political crisis turns one region's fear of Red Jackal into a conflict with its own resolution;
+- action identity: pursuit, capture attempts, dangerous containment, battlefield choices, and escape pressure with real psychological and physical aftermath;
+- long-thread contribution: the local conflict forces memory fragments into the open and challenges the belief that Red Jackal is Deadpool;
+- exact demon factions, local antagonist, memory scene, and final set piece: `UNKNOWN / NOT ESTABLISHED` until chapter authority exists.
+
 ## Entry state
 
 - prior arc exit: rumors have spread about an unranked adventurer who survives impossible combat; exact reputation and location UNKNOWN / NOT ESTABLISHED;

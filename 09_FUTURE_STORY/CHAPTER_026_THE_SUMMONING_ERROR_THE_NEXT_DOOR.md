@@ -1,4 +1,4 @@
-# Chapter 026 - Red Jackal Tells You: The Summoning Error - Which Door Comes Next?
+# Chapter 026 - Red Jackal Tells You: The Moving Checkpoint - Which Door Wants Us Dead?
 
 The door came back after lunch.
 

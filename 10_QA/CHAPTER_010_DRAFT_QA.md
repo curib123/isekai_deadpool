@@ -1,4 +1,4 @@
-# Chapter 010 Draft QA - Red Jackal Tells You: The Summoning Error - Is There Really No Safe Answer?
+# Chapter 010 Draft QA - Red Jackal Tells You: The Valley Road - Did We Just Win the Wrong Fight?
 
 ## Draft status
 

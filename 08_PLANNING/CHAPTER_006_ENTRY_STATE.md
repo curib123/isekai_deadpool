@@ -1,4 +1,4 @@
-# Chapter 006 Entry State - Red Jackal Tells You: The Summoning Error - Was There Ever an Easy Problem?
+# Chapter 006 Entry State - Red Jackal Tells You: The Valley Road - Why Is Something Hunting Us?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

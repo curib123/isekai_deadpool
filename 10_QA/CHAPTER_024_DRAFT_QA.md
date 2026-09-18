@@ -1,4 +1,4 @@
-# Chapter 024 Draft QA - Red Jackal Tells You: The Summoning Error - What Does Trust Cost?
+# Chapter 024 Draft QA - Red Jackal Tells You: The Unregistered Road - Can Trust Survive a Monster Attack?
 
 ## Draft status
 

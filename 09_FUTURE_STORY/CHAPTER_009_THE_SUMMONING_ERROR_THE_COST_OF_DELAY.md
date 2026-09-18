@@ -1,4 +1,4 @@
-# Chapter 009 - Red Jackal Tells You: The Summoning Error - What Does Delay Cost?
+# Chapter 009 - Red Jackal Tells You: The Valley Road - What Does Regeneration Feel Like?
 
 The bell beneath Bellwether rang again.
 

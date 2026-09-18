@@ -1,4 +1,4 @@
-# Chapter 021 Draft QA - Red Jackal Tells You: The Summoning Error - What If the Damage Remains?
+# Chapter 021 Draft QA - Red Jackal Tells You: The Unregistered Road - What Does a Rumor Hunt?
 
 ## Draft status
 

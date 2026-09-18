@@ -1,4 +1,4 @@
-# Chapter 019 Entry State - Red Jackal Tells You: The Summoning Error - What Can He Not Say?
+# Chapter 019 Entry State - Red Jackal Tells You: The Guild Escort - Who Is Changing the Road?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

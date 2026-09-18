@@ -17,6 +17,14 @@ This boundary file records only the Arc 2 material established by the master pla
 - expand the fantasy world;
 - show real growth that the System cannot measure.
 
+## Environment and standalone-problem contract
+
+- provisional environment: a wild quest frontier of dangerous ruins, changing terrain, isolated settlements, and communities that survive outside the safest guild routes;
+- standalone local problem: a simple quest becomes a local predator, ruin, or faction crisis that must be solved on its own terms;
+- action identity: terrain-based fights, rescue choices, tactical retreats, non-System competence, and consequences that cannot be hidden by a reputation joke;
+- long-thread contribution: Red Jackal's reputation spreads beyond Arc 1, and more people begin treating his existence as a recurring world problem;
+- exact names, map, local antagonist, companions, and final set piece: `UNKNOWN / NOT ESTABLISHED` until chapter authority exists.
+
 ## Entry state
 
 - prior arc exit: the protagonist has survived an event that should have killed a beginner; exact event and consequences UNKNOWN / NOT ESTABLISHED;

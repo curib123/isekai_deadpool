@@ -17,6 +17,14 @@ This boundary file records the master-plan transition from comedy and suspicion 
 - establish the long-term enemy structure;
 - move the protagonist from playful fourth-wall authority toward a direct conflict with the Great Design, without granting a new ability.
 
+## Environment and standalone-problem contract
+
+- provisional environment: a strange border of unfinished reality where the Great Design's pressure becomes visible through broken routes, incomplete histories, and unstable cause-and-effect;
+- standalone local problem: a local reality crisis forces Red Jackal to choose how he uses an already-unlimited authority while ordinary people bear the consequences;
+- action identity: impossible terrain, reality-scale escapes, decisions about what to preserve, and a climax that changes the direction of the world without ending the saga;
+- long-thread contribution: something beyond ordinary reality directly notices Red Jackal for the first time;
+- exact region, local antagonist, reaction, and final set piece: `UNKNOWN / NOT ESTABLISHED` until chapter authority exists.
+
 ## Entry state
 
 - prior arc exit: a prophecy has failed after the protagonist interfered with an inevitable event; exact aftermath UNKNOWN / NOT ESTABLISHED;

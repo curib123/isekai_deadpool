@@ -1,4 +1,4 @@
-# Chapter 015 Draft QA - Red Jackal Tells You: The Summoning Error - Who Makes the Choice Nobody Likes?
+# Chapter 015 Draft QA - Red Jackal Tells You: Bellwether - Who Pays for the Damage?
 
 ## Draft status
 

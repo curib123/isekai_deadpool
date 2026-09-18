@@ -1,4 +1,4 @@
-# Chapter 018 Entry State - Red Jackal Tells You: The Summoning Error - Who Decides to Stay?
+# Chapter 018 Entry State - Red Jackal Tells You: The Guild Escort - Can We Protect the Person Who Hates Us?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

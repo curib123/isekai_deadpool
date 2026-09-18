@@ -1,4 +1,4 @@
-# Chapter 008 - Red Jackal Tells You: The Summoning Error - How Much Pressure Can Build?
+# Chapter 008 - Red Jackal Tells You: The Valley Road - Who Put Teeth in the Dark?
 
 The settlement had a name.
 

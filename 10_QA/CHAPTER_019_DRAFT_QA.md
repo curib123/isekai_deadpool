@@ -1,4 +1,4 @@
-# Chapter 019 Draft QA - Red Jackal Tells You: The Summoning Error - What Can He Not Say?
+# Chapter 019 Draft QA - Red Jackal Tells You: The Guild Escort - Who Is Changing the Road?
 
 ## Draft status
 

@@ -1,4 +1,4 @@
-# Chapter 002 Entry State - Red Jackal Tells You: The Summoning Error - Was That Really the Wrong Door?
+# Chapter 002 Entry State - Red Jackal Tells You: The Summoning Error - Did I Open the Wrong Door?
 
 ## Authority and status
 

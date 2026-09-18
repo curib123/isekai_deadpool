@@ -1,4 +1,4 @@
-# Chapter 025 - Red Jackal Tells You: The Summoning Error - Why Does the Answer Move?
+# Chapter 025 - Red Jackal Tells You: The Unregistered Road - What Did the Answer Cost?
 
 Orin showed us the route record after breakfast.
 

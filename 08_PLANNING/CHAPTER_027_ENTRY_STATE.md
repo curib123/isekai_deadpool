@@ -1,4 +1,4 @@
-# Chapter 027 Entry State - Red Jackal Tells You: The Summoning Error - Can a Thread Stay Open?
+# Chapter 027 Entry State - Red Jackal Tells You: The Moving Checkpoint - Can a Road Refuse a Name?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

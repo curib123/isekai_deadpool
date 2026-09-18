@@ -1,4 +1,4 @@
-# Chapter 030 Draft QA - Red Jackal Tells You: The Summoning Error - What Comes After the Checkpoint?
+# Chapter 030 Draft QA - Red Jackal Tells You: The Moving Checkpoint - What Comes After the Checkpoint?
 
 ## Draft status
 

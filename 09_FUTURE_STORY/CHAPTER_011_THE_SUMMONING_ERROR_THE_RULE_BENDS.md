@@ -1,4 +1,4 @@
-# Chapter 011 - Red Jackal Tells You: The Summoning Error - How Far Can the Rule Bend?
+# Chapter 011 - Red Jackal Tells You: Bellwether - Why Is the Guild Afraid of My Status?
 
 The tower had given me a provisional status.
 

@@ -1,4 +1,4 @@
-# Chapter 029 Entry State - Red Jackal Tells You: The Summoning Error - You Do Not Think This Is the Ending, Do You?
+# Chapter 029 Entry State - Red Jackal Tells You: The Moving Checkpoint - Are We Leaving or Being Chased?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

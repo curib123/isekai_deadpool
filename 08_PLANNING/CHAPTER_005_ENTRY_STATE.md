@@ -1,4 +1,4 @@
-# Chapter 005 Entry State - Red Jackal Tells You: The Summoning Error - How Quiet Is the Quiet Before?
+# Chapter 005 Entry State - Red Jackal Tells You: The Summoning Error - What Is Waiting Beyond the Light?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

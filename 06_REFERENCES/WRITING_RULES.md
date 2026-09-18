@@ -45,6 +45,18 @@ Required checks:
 - vary the joke timing: some jokes should be expected from Red Jackal's voice, while others should arrive because the situation takes an absurd turn;
 - close chapters on a changed situation or a strong forward pull, not on an empty tease.
 
+## Dark-fantasy action-adventure pacing
+
+- treat each arc as a journey through a distinct environment with its own physical rules, social pressure, local danger, and visual identity;
+- give each arc a standalone problem that reaches a real local resolution while leaving a separate clue, consequence, rumor, or relationship change connected to the larger threat;
+- in Arc 1, place a physical danger, chase, fight, rescue, escape, or survival decision every two or three chapters;
+- make every five-chapter movement contain one action set piece with a clear objective, tactical problem, character choice, physical cost, and changed exit state;
+- do not use travel, guild paperwork, investigation, or explanation as filler. Each must create movement, danger, conflict, discovery, or a relationship consequence;
+- write fights as scenes with terrain, timing, fear, injury, choices, and aftermath. Red Jackal's unlimited imagination may solve any problem, but tension comes from what he chooses, refuses, protects, jokes about, or allows to remain changed;
+- use dark-fantasy consequences: wounds, loss, fear, institutional damage, betrayal, death, debt, curses, and damaged trust remain real after the joke;
+- prefer fewer memorable set pieces over many interchangeable attacks. Every major action scene must change the story or a character;
+- keep the long-running villain or threat in the background of local adventures. Do not let a mystery clue replace the local conflict before that conflict has its own climax.
+
 ## Point of view
 
 - use first-person Red Jackal narration as the default from Chapter 1 onward;

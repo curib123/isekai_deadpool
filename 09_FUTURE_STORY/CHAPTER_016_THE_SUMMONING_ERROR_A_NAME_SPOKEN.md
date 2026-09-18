@@ -1,4 +1,4 @@
-# Chapter 016 - Red Jackal Tells You: The Summoning Error - Whose Name Was Spoken?
+# Chapter 016 - Red Jackal Tells You: The Guild Escort - Why Are the Wardens Following Us?
 
 The woman gave me her name in Room Two.
 

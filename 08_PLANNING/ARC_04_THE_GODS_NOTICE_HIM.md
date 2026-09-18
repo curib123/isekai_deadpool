@@ -17,6 +17,14 @@ This boundary file records the divine and prophetic escalation without defining 
 - develop the mechanics of Fate;
 - show the protagonist's pattern recognition becoming disturbing.
 
+## Environment and standalone-problem contract
+
+- provisional environment: sacred cities, divine roads, prophecy sites, and a region where Fate is publicly administered or ritualized;
+- standalone local problem: a prophecy declares a disaster or death inevitable, forcing the local society to choose between obedience and survival;
+- action identity: sacred trials, pursuit by divine agents, rescue under prophecy pressure, and a focused intervention with political and personal cost;
+- long-thread contribution: divination, prophecy, and Fate produce evidence that the Great Design was not built for Red Jackal;
+- exact gods, prophecy, local antagonist, and final set piece: `UNKNOWN / NOT ESTABLISHED` until chapter authority exists.
+
 ## Entry state
 
 - prior arc exit: the protagonist knows Deadpool was fictional in his original world and is experiencing identity collapse; exact location and support network UNKNOWN / NOT ESTABLISHED;

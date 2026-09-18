@@ -1,4 +1,4 @@
-# Chapter 014 Draft QA - Red Jackal Tells You: The Summoning Error - What Is the Price of Survival?
+# Chapter 014 Draft QA - Red Jackal Tells You: Bellwether - What Does the Monster Want?
 
 ## Draft status
 

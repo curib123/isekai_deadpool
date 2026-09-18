@@ -1,4 +1,4 @@
-# Chapter 015 - Red Jackal Tells You: The Summoning Error - Who Makes the Choice Nobody Likes?
+# Chapter 015 - Red Jackal Tells You: Bellwether - Who Pays for the Damage?
 
 The council met in a room with one long table, twelve chairs, and no snacks.
 

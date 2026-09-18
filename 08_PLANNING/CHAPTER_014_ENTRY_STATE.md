@@ -1,4 +1,4 @@
-# Chapter 014 Entry State - Red Jackal Tells You: The Summoning Error - What Is the Price of Survival?
+# Chapter 014 Entry State - Red Jackal Tells You: Bellwether - What Does the Monster Want?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

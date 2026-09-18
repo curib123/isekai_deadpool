@@ -1,4 +1,4 @@
-# Chapter 011 Entry State - Red Jackal Tells You: The Summoning Error - How Far Can the Rule Bend?
+# Chapter 011 Entry State - Red Jackal Tells You: Bellwether - Why Is the Guild Afraid of My Status?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

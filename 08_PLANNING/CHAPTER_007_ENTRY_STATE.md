@@ -1,4 +1,4 @@
-# Chapter 007 Entry State - Red Jackal Tells You: The Summoning Error - Which Assumption Was Bad?
+# Chapter 007 Entry State - Red Jackal Tells You: The Valley Road - Can a Beginner Survive an Ambush?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;
