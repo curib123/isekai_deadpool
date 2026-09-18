@@ -9,4 +9,5 @@
 - prose authority: `06_REFERENCES/WRITING_STYLE_GUIDE.md` and `WRITING_RULES.md`;
 - decision: `GO`;
 - unknowns retained: summoning woman's identity, anomaly origin, reincarnation cause, world name, and complete Great Design architecture;
-- post-work QA: pending prose.
+- post-work QA: Chapter 003 is 1,381 words and passes the length and Human-Prose gates; see `CHAPTER_003_DRAFT_QA.md`;
+- certification: `UNCERTIFIED - author prose approval pending`.
