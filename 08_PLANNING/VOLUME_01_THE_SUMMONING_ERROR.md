@@ -1,4 +1,4 @@
-# Volume 01 - The Summoning Error
+# Volume 01 - Red Jackal Tells You: The Summoning Error
 
 ## Authority and status
 

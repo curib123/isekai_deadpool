@@ -19,11 +19,11 @@ The master plan names five arcs but does not by itself authorize final chapter p
 
 | Arc | Title | Chapter count | Chapter range | Chapter titles | Status | Entry/exit authority |
 | --- | --- | --- | --- | --- | --- | --- |
-| Arc 1 | The Man Who Thinks He's Deadpool | 60 provisional slots | Chapters 001-060 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
-| Arc 2 | The Glitch vs. Fantasy | 60 provisional slots | Chapters 061-120 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
-| Arc 3 | The Demon King's Confusion | 60 provisional slots | Chapters 121-180 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
-| Arc 4 | The Gods Notice Him | 60 provisional slots | Chapters 181-240 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
-| Arc 5 | The Great Design Notices Him | 60 provisional slots | Chapters 241-300 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
+| Arc 1 | Red Jackal Tells You: The Man Who Thinks He's Deadpool | 60 provisional slots | Chapters 001-060 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
+| Arc 2 | Red Jackal Tells You: The Glitch vs. Fantasy | 60 provisional slots | Chapters 061-120 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
+| Arc 3 | Red Jackal Tells You: The Demon King's Confusion | 60 provisional slots | Chapters 121-180 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
+| Arc 4 | Red Jackal Tells You: The Gods Notice Him | 60 provisional slots | Chapters 181-240 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
+| Arc 5 | Red Jackal Tells You: The Great Design Notices Him | 60 provisional slots | Chapters 241-300 | Provisional in roadmap | PROVISIONAL ROADMAP | `300_CHAPTER_ROADMAP.md` |
 
 ## Future slot format
 

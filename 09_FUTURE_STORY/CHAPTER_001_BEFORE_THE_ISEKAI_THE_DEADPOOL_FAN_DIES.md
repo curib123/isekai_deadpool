@@ -1,4 +1,4 @@
-# Chapter 001 - Before the Isekai: The Deadpool Fan Dies
+# Chapter 001 - Red Jackal Tells You: Before the Isekai: The Deadpool Fan Dies
 
 I died on a Tuesday.
 

@@ -1,4 +1,4 @@
-# Chapter 024 Entry State - The Summoning Error: Trust Has a Cost
+# Chapter 024 Entry State - Red Jackal Tells You: The Summoning Error: Trust Has a Cost
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

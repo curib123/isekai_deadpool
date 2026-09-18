@@ -1,4 +1,4 @@
-# Chapter 007 - The Summoning Error: A Bad Assumption
+# Chapter 007 - Red Jackal Tells You: The Summoning Error: A Bad Assumption
 
 The patrol captain pointed a crossbow at my chest.
 

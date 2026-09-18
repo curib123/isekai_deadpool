@@ -4,6 +4,7 @@ This is the working drafting contract for future prologues, synopses, chapter pl
 
 ## Synopsis and prologue voice
 
+- Title both formats as Red Jackal's telling: `Red Jackal Tells You: [title]`.
 - The synopsis is written as Red Jackal speaking directly to the reader in first person, not as an objective third-person marketing summary.
 - The prologue is written in the same first-person conversational voice as the numbered chapters.
 - Both the synopsis and prologue may use direct reader-talk, self-correction, controlled foreshadowing, and Red Jackal's clear fourth-wall awareness from the beginning.
@@ -58,6 +59,10 @@ Required checks:
 ## Dialogue
 
 - give each speaker an objective, pressure, and knowledge boundary;
+- keep one speaker per paragraph and use an action beat or attribution whenever speaker identity could be unclear;
+- keep spoken dialogue in quotation marks, reader-talk in narration, and direct thoughts clearly separated;
+- when Red Jackal edits dialogue, state the edit in narration before presenting the revised line;
+- never let an imagined reader reply as if the reader were physically present in the scene;
 - use interruption, silence, evasion, misunderstanding, and subtext when they fit the relationship;
 - do not make every character respond with the protagonist's humor or vocabulary;
 - let serious characters reject, misunderstand, or be harmed by his jokes;
@@ -94,6 +99,12 @@ Required checks:
 Red Jackal has literal fourth-wall awareness from the origin-world opening. The synopsis, prologue, Chapter 1, and later chapters may show direct audience address, rewritten dialogue, corrected narration, altered scene direction, or storyline edits. These are not unlocks, stages, or progression rewards. His reader relationship stays fundamentally consistent; only his understanding of the world's Fate and Great Design may deepen.
 
 Make meaningful edits clear to the reader through close narration. Do not conceal the ability behind ambiguous coincidence or delay its truth until Arc 5. The Great Design's later reaction is an escalation of opposition, not the source of his authority.
+
+## Title and storyteller contract
+
+Every volume, arc, synopsis, prologue, and numbered chapter title must explicitly carry Red Jackal's storyteller frame. Use `Red Jackal Tells You: [clear subject]` after the volume, arc, or chapter number where applicable. The title may contain a joke or warning, but it must not hide the actual subject of the chapter.
+
+The title frame does not create a second narrator. Red Jackal remains the only narrative voice, and characters do not hear the title unless the prose deliberately turns it into a scene joke.
 
 ## Chapter length and structure
 

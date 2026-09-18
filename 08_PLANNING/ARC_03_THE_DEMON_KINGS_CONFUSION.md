@@ -1,4 +1,4 @@
-# Arc 3 - The Demon King's Confusion
+# Arc 3 - Red Jackal Tells You: The Demon King's Confusion
 
 ## Authority and status
 

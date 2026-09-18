@@ -1,4 +1,4 @@
-# Chapter 017 - The Summoning Error: The Joke Fails
+# Chapter 017 - Red Jackal Tells You: The Summoning Error: The Joke Fails
 
 The first registry record we rebuilt belonged to a dead man.
 

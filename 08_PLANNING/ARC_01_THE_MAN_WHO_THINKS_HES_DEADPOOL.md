@@ -1,4 +1,4 @@
-# Arc 1 - The Man Who Thinks He's Deadpool
+# Arc 1 - Red Jackal Tells You: The Man Who Thinks He's Deadpool
 
 ## Authority and status
 

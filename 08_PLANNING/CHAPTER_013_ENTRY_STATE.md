@@ -1,4 +1,4 @@
-# Chapter 013 Entry State - The Summoning Error: An Unwanted Lesson
+# Chapter 013 Entry State - Red Jackal Tells You: The Summoning Error: An Unwanted Lesson
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

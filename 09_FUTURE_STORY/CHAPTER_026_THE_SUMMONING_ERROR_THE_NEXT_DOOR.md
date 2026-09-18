@@ -1,4 +1,4 @@
-# Chapter 026 - The Summoning Error: The Next Door
+# Chapter 026 - Red Jackal Tells You: The Summoning Error: The Next Door
 
 The door came back after lunch.
 

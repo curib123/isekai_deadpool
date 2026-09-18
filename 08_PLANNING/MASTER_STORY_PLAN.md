@@ -1,4 +1,4 @@
-# This Isekai Has a Bug. Unfortunately, It’s Me.
+# Red Jackal Tells You: This Isekai Has a Bug. Unfortunately, It’s Me.
 
 ## Genre
 
@@ -1532,7 +1532,7 @@ And eventually, the entire story becomes centered around one question:
 
 # Final Locked Title
 
-# **This Isekai Has a Bug. Unfortunately, It’s Me.**
+# Red Jackal Tells You: **This Isekai Has a Bug. Unfortunately, It’s Me.**
 
 Optional subtitle:
 

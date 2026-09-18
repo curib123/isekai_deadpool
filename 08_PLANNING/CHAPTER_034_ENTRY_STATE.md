@@ -1,4 +1,4 @@
-# Chapter 034 Entry State - The Beginner Who Wouldn't Die: A Question with Teeth
+# Chapter 034 Entry State - Red Jackal Tells You: The Beginner Who Wouldn't Die: A Question with Teeth
 
 - volume: Volume 02 - The Beginner Who Wouldn't Die;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

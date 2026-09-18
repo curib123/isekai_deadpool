@@ -1,4 +1,4 @@
-# Arc 5 - The Great Design Notices Him
+# Arc 5 - Red Jackal Tells You: The Great Design Notices Him
 
 ## Authority and status
 

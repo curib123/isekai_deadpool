@@ -1,4 +1,4 @@
-# Chapter 012 - The Summoning Error: The Witness
+# Chapter 012 - Red Jackal Tells You: The Summoning Error: The Witness
 
 Tomas wrote down my first official act in Bellwether.
 

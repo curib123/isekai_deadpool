@@ -1,4 +1,4 @@
-# Chapter 019 Entry State - The Summoning Error: What He Cannot Say
+# Chapter 019 Entry State - Red Jackal Tells You: The Summoning Error: What He Cannot Say
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

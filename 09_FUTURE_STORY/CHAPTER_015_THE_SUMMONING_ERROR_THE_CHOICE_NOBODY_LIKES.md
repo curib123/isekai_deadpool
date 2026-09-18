@@ -1,4 +1,4 @@
-# Chapter 015 - The Summoning Error: The Choice Nobody Likes
+# Chapter 015 - Red Jackal Tells You: The Summoning Error: The Choice Nobody Likes
 
 The council met in a room with one long table, twelve chairs, and no snacks.
 

@@ -1,4 +1,4 @@
-# Chapter 009 - The Summoning Error: The Cost of Delay
+# Chapter 009 - Red Jackal Tells You: The Summoning Error: The Cost of Delay
 
 The bell beneath Bellwether rang again.
 

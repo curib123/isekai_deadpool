@@ -1,4 +1,4 @@
-# Volume 02 - The Beginner Who Wouldn't Die
+# Volume 02 - Red Jackal Tells You: The Beginner Who Wouldn't Die
 
 ## Authority and status
 

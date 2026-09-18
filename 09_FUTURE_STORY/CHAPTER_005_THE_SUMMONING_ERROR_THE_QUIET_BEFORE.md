@@ -1,4 +1,4 @@
-# Chapter 005 - The Summoning Error: The Quiet Before
+# Chapter 005 - Red Jackal Tells You: The Summoning Error: The Quiet Before
 
 The locals did not meet us.
 

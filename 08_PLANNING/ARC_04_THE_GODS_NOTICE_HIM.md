@@ -1,4 +1,4 @@
-# Arc 4 - The Gods Notice Him
+# Arc 4 - Red Jackal Tells You: The Gods Notice Him
 
 ## Authority and status
 

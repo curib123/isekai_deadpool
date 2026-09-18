@@ -1,4 +1,4 @@
-# Chapter 001 Entry State - Before the Isekai: The Deadpool Fan Dies
+# Chapter 001 Entry State - Red Jackal Tells You: Before the Isekai: The Deadpool Fan Dies
 
 ## Authority and status
 

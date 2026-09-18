@@ -1,4 +1,4 @@
-# Chapter 029 - The Summoning Error: Not the Ending
+# Chapter 029 - Red Jackal Tells You: The Summoning Error: Not the Ending
 
 The eastern route did not lead to a city.
 

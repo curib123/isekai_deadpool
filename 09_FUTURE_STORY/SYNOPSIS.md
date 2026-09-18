@@ -1,4 +1,4 @@
-# Synopsis - This Isekai Has a Bug. Unfortunately, It's Me.
+# Synopsis - Red Jackal Tells You: This Isekai Has a Bug. Unfortunately, It's Me.
 
 Before you judge me, at least let me finish the first paragraph. Then judge me. I know you were going to anyway.
 

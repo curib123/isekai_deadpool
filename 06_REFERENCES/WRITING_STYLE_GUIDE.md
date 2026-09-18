@@ -5,6 +5,7 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 ## Narrative surface
 
 - Use first-person narration from Chapter 1 onward: I, me, my, and we when Red Jackal includes the reader.
+- Every volume, arc, synopsis, prologue, and chapter title must visibly identify Red Jackal as the storyteller. Use the title pattern `Red Jackal Tells You: [title]` so the fourth-wall framing is clear before the prose begins.
 - Red Jackal is personally recounting his life while scenes remain immediate. Do not write him as a distant historian calmly summarizing events.
 - Keep spoken dialogue in quotation marks and preserve each character's knowledge and voice.
 - Vary sentence and paragraph length naturally.
@@ -22,6 +23,19 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - He may skip boring details, emphasize embarrassing details, correct himself, rewind mentally, foreshadow a later disaster, or say that an event becomes important later.
 - Red Jackal may be unreliable: he may exaggerate, understate danger, hide embarrassment, deny fear, reinterpret memories, or claim an accident was intentional.
 - The reader must still understand the event, the emotional truth, and the consequences beneath his performance.
+- Title framing is part of the voice: Red Jackal may make the title defensive, dramatic, sarcastic, or self-aware, but the underlying subject must remain clear.
+
+## Speaker clarity and fourth-wall separation
+
+- Use one speaker per paragraph. Start a new paragraph whenever the speaker changes, even during fast comedy.
+- Give the first line of a conversation a clear action tag or attribution when more than two speakers are present.
+- Use action beats to identify speakers when a conversation continues: `Nera folded her arms. "That is not a plan."`
+- Keep Red Jackal's spoken dialogue inside quotation marks. Keep reader-talk in narration outside quotation marks unless he deliberately quotes himself as part of the joke.
+- Keep direct thoughts distinct from spoken dialogue. Use close narration such as `I thought about lying` rather than presenting every thought as an unattributed line.
+- When Red Jackal rewrites a line, scene, or event, narrate the edit clearly before showing the new result: `I changed the sentence. "We will survive," she said.`
+- Do not make the reader answer Red Jackal aloud. The reader is his audience, not an unseen character sharing the room.
+- When a fourth-wall aside interrupts dialogue, return clearly to the physical scene so the reader knows who can hear the next line.
+- If Red Jackal tells a past event, preserve immediate scene clarity: identify who speaks, what changes, and what consequence follows before adding a reader-facing aside.
 
 ## Synopsis and prologue
 

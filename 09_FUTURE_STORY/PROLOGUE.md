@@ -1,4 +1,4 @@
-# Prologue - You Want the Truth?
+# Prologue - Red Jackal Tells You: You Want the Truth?
 
 You want to know how all of this happened?
 

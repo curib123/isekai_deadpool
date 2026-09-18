@@ -1,4 +1,4 @@
-# Chapter 025 - The Summoning Error: The Answer Moves
+# Chapter 025 - Red Jackal Tells You: The Summoning Error: The Answer Moves
 
 Orin showed us the route record after breakfast.
 

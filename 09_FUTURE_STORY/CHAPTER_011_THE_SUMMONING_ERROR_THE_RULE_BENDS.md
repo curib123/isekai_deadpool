@@ -1,4 +1,4 @@
-# Chapter 011 - The Summoning Error: The Rule Bends
+# Chapter 011 - Red Jackal Tells You: The Summoning Error: The Rule Bends
 
 The tower had given me a provisional status.
 

@@ -1,4 +1,4 @@
-# Arc 2 - The Glitch vs. Fantasy
+# Arc 2 - Red Jackal Tells You: The Glitch vs. Fantasy
 
 ## Authority and status
 

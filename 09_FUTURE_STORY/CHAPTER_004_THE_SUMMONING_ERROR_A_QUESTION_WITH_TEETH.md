@@ -1,4 +1,4 @@
-# Chapter 004 - The Summoning Error: A Question with Teeth
+# Chapter 004 - Red Jackal Tells You: The Summoning Error: A Question with Teeth
 
 The golden light swallowed us.
 

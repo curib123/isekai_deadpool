@@ -1,4 +1,4 @@
-# Chapter 027 - The Summoning Error: A Thread Left Open
+# Chapter 027 - Red Jackal Tells You: The Summoning Error: A Thread Left Open
 
 The thing beneath the white grass did not come out.
 

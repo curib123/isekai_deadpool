@@ -1,4 +1,4 @@
-# Chapter 010 - The Summoning Error: No Safe Answer
+# Chapter 010 - Red Jackal Tells You: The Summoning Error: No Safe Answer
 
 The second bell rang.
 

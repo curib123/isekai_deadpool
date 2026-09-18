@@ -1,4 +1,4 @@
-# Chapter 009 Entry State - The Summoning Error: The Cost of Delay
+# Chapter 009 Entry State - Red Jackal Tells You: The Summoning Error: The Cost of Delay
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

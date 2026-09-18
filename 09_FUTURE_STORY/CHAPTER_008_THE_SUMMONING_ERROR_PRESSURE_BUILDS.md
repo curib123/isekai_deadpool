@@ -1,4 +1,4 @@
-# Chapter 008 - The Summoning Error: Pressure Builds
+# Chapter 008 - Red Jackal Tells You: The Summoning Error: Pressure Builds
 
 The settlement had a name.
 
