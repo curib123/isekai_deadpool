@@ -2,9 +2,11 @@
 
 You want to know how all of this happened?
 
-Fine. I'll tell you.
+Fine. I'll tell you. Try to look interested. It helps the pacing.
 
 My name is Red Jackal.
+
+No, I am not going to wait for a dramatic thunderclap. We have a budget, and most of it went to the part where reality stopped behaving.
 
 It was not always Red Jackal. In fact, there was a long period when I had no idea what my name was supposed to be. There was another name buried somewhere behind the smoke in my memory, but every time I reached for it, my mind handed me a blank card and the emotional comfort of a locked filing cabinet.
 
@@ -51,6 +53,10 @@ There. That sounded threatening. I did not mean it that way.
 Probably.
 
 The point is simple. I knew you were there from the beginning. I knew the story was a story. I knew I could change a line if I wanted to.
+
+I could also change the entire scene.
+
+No, I am not showing off. I am establishing the rules before somebody accuses me of cheating. I cheat later. There is a difference.
 
 I also knew that changing everything immediately would make a terrible story.
 

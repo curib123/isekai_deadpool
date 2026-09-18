@@ -81,7 +81,7 @@
 
 - synopsis: drafted in first-person Red Jackal voice;
 - prologue: drafted in first-person Red Jackal voice;
-- Chapter 001 word count: 1,843; length gate PASS;
+- Chapter 001 word count: 2,164; length gate PASS;
 - exit location/time: white summoning chamber or equivalent transition space; exact location UNKNOWN / NOT ESTABLISHED;
 - characters present/alive/available: Red Jackal and an unnamed woman; no long-term companion established;
 - reader knowledge: permanent reader-talk and unrestricted fourth-wall/narrative-editing authority are clear;

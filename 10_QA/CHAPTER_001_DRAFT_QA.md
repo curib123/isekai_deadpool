@@ -4,7 +4,7 @@
 
 - target: Volume 01, Arc 1, Chapter 001;
 - source: `09_FUTURE_STORY/CHAPTER_001_BEFORE_THE_ISEKAI_THE_DEADPOOL_FAN_DIES.md`;
-- prose word count: 1,843;
+- prose word count: 2,164;
 - minimum target: 1,000;
 - prose length result: PASS;
 - synopsis and prologue: drafted in the same first-person voice;

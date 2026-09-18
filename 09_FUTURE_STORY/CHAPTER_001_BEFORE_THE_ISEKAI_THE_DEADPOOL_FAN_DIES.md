@@ -2,13 +2,15 @@
 
 I died on a Tuesday.
 
+Yes, that is the opening line. No, you do not get a refund.
+
 Not a Friday. Not during a thunderstorm with lightning striking behind me. Not while a beautiful woman cried over my broken body and promised that she would never love again.
 
 Tuesday.
 
 You would be surprised how much dignity a weekday removes from a death scene.
 
-Before you ask, yes, I know how that sounds. I am telling you my own story, and I have decided to begin with the part where I die. It is not the most original opening, but originality is difficult when your life ends before the plot properly introduces you.
+Before you ask, yes, I know how that sounds. I am telling you my own story, and I have decided to begin with the part where I die. It is not the most original opening, but originality is difficult when your life ends before the plot properly introduces you. Also, starting with my childhood would require remembering my childhood, and memory is currently being managed by a committee of frightened pigeons.
 
 Actually, that sentence is too dramatic.
 
@@ -22,7 +24,7 @@ The rain began while I was leaving a comic shop that stayed open far too late fo
 
 The box contained a Deadpool figure.
 
-It was not the expensive one. The expensive one had a sword, two guns, three interchangeable faces, and a price tag that suggested it had been personally blessed by a minor god. Mine had one sword, one gun, one face, and a left hand that looked slightly confused about its purpose.
+It was not the expensive one. The expensive one had a sword, two guns, three interchangeable faces, and a price tag that suggested it had been personally blessed by a minor god. Mine had one sword, one gun, one face, and a left hand that looked slightly confused about its purpose. Honestly, relatable.
 
 I loved it immediately.
 
@@ -78,6 +80,14 @@ I held up the box. “I have a mission.”
 
 The clerk shook her head, but she was still smiling when I stepped into the rain.
 
+"Your mission is to buy plastic?" she called after me.
+
+"My mission is to preserve culture," I called back.
+
+"You said culture could not be eaten."
+
+"That was before I became responsible for it."
+
 That was the last normal conversation I ever had.
 
 I am aware that calling it normal is unfair. The conversation included a discussion about defective action figures, diagonal walking, and background characters. Still, compared to what came afterward, it was practically a family dinner.
@@ -92,7 +102,7 @@ My phone vibrated.
 
 “In the rain?”
 
-“No. I am standing inside an extremely realistic special effect.”
+“No. I am standing inside an extremely realistic special effect. The production value is terrible.”
 
 “You went to the comic shop again.”
 
@@ -100,7 +110,7 @@ My phone vibrated.
 
 “That was not the question.”
 
-“Then ask better questions.”
+“Then ask better questions. I am not responsible for the quality of your interview.”
 
 There was a pause. I could hear traffic through the phone on his side and rain through the world on mine.
 
@@ -110,7 +120,7 @@ There was a pause. I could hear traffic through the phone on his side and rain t
 
 “Can culture be eaten?”
 
-“Not with that attitude.”
+“Not with that attitude. Food is very sensitive to judgment.”
 
 “You promised dinner.”
 
@@ -118,11 +128,11 @@ There was a pause. I could hear traffic through the phone on his side and rain t
 
 “You said, and I quote, ‘I will return with food like a victorious warrior.’”
 
-“That does sound like me.”
+“That does sound like me. I was probably wearing a cape in the memory.”
 
 “You are impossible.”
 
-“Technically, I am very possible. I am currently walking.”
+“Technically, I am very possible. I am currently walking, breathing, and making several decisions you will later describe as preventable.”
 
 “Red—”
 
@@ -132,7 +142,7 @@ He stopped himself before using my name. I noticed it because I always noticed w
 
 “Just get home.”
 
-“That is a boring ending.”
+“That is a boring ending. I refuse to die before the second act.”
 
 “It is a safe ending.”
 
@@ -154,6 +164,8 @@ I should have turned around. I should have waited under the shop awning. I shoul
 
 I could also have changed the scene.
 
+I am not telling you this to sound impressive. If I wanted to sound impressive, I would have worn a coat and described the rain as symbolic.
+
 That is the part people usually dislike when I tell them this story. They want an accident to be an accident. They want death to be stronger than the person standing in front of it.
 
 I could have imagined the rain stopping.
@@ -169,6 +181,10 @@ I could have rewritten the next paragraph so the van never entered the street.
 I knew I could do all of that.
 
 I still stepped forward.
+
+Future historians may call this bravery.
+
+Future historians will not be consulted.
 
 The van appeared at the end of the street with its headlights cutting through the rain. It was moving too fast for the road. The tires slid. The driver shouted something I could not hear through the storm.
 
@@ -192,6 +208,10 @@ Instead, I imagined a red wall between the boy and the van.
 
 The wall appeared.
 
+"You are welcome," I told the reader.
+
+The boy did not hear me. The reader did. This is an important distinction, mostly because one of us has the decency to appreciate good timing.
+
 Not a normal wall. A huge red cartoon wall with white cracks painted across it and a black sign that said **NOPE** in letters large enough to insult the entire alphabet.
 
 The van hit it.
@@ -213,6 +233,10 @@ I could still make the van disappear.
 I could still make the entire street forget that anything had happened.
 
 I did not.
+
+Yes, I know. You are disappointed.
+
+Please place all complaints in the nearest suggestion box. The nearest suggestion box is also me.
 
 “Why?” you ask.
 
@@ -244,7 +268,7 @@ The world turned white.
 
 “Can you hear me?”
 
-“Unfortunately.”
+“Unfortunately. You have a very loud voice.”
 
 Hands pressed against my chest. Rain touched my face. The red-and-black figure sat beside me in the road, one plastic arm pointing toward the sky.
 
@@ -284,6 +308,10 @@ I could have rewritten the ending.
 
 I did not.
 
+Not because I was trapped.
+
+Because I wanted to know whether the next scene had better writing.
+
 The world stopped.
 
 Then I opened my eyes in front of a woman wearing enough white fabric and gold jewelry to qualify as either a goddess or someone with terrible financial priorities.
@@ -299,6 +327,14 @@ I crossed out her sentence.
 Her smile froze.
 
 I smiled back.
+
+"Relax," I said. "If I wanted to make the greeting worse, you would already be wearing a hat."
+
+She looked at her head.
+
+There was no hat.
+
+That was when she understood the problem.
 
 That was how I learned two things.
 
@@ -324,7 +360,7 @@ The woman looked at the air beside my shoulder. A transparent window appeared th
 
 I read the list twice.
 
-“That seems rude,” I said.
+“That seems rude,” I said. “You could have at least called me handsome before declaring me undefined.”
 
 The woman did not laugh.
 
@@ -343,6 +379,10 @@ The woman closed her eyes.
 “You know him?”
 
 “I do not know what that means.”
+
+I looked at you.
+
+This was your fault. You brought me to a fantasy world with no cultural education program.
 
 I sat up. My broken ribs were gone. My shoulder had returned to its proper location. Somewhere behind me, my memories were still missing.
 
@@ -369,5 +409,15 @@ I edited the next line before she could speak.
 “Welcome to another world,” she said.
 
 Better.
+
+The woman stared at me.
+
+“Did you just change what I said?”
+
+“No.”
+
+“You did.”
+
+“I improved it.”
 
 Then the summoning began.

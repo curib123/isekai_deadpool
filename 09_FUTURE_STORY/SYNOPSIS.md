@@ -1,28 +1,28 @@
 # Synopsis - This Isekai Has a Bug. Unfortunately, It's Me.
 
-Before you judge me, you need context.
+Before you judge me, at least let me finish the first paragraph. Then judge me. I know you were going to anyway.
 
 I did not wake up in another world because I was a hero. I was not chosen by a mysterious prophecy, blessed by a beautiful goddess, or recruited by a kingdom desperate for a savior.
 
 I was a Deadpool fan.
 
-An extremely committed Deadpool fan.
+An aggressively committed Deadpool fan. The kind of fan who could identify a movie scene from the sound of somebody making a terrible decision.
 
-There is a difference.
+There is a difference. One is a hobby. The other is a cry for help with merchandise.
 
 I knew every movie reference, every ridiculous fight, every terrible decision, and every joke that should have gotten him killed three scenes earlier. I also knew he was fictional. That detail became important later, mostly because I forgot the name of my own face but remembered the face of a man who never existed.
 
-Then I died.
+Then I died. Please save your applause until the end.
 
 I could have stopped it. I could have rewritten the scene, changed the traffic, removed the accident, or made myself impossible to hurt. I did not. At the time, I thought I was being brave.
 
-Looking back, I was probably curious, tired, and making an unbelievably stupid decision.
+Looking back, I was curious, tired, and making an unbelievably stupid decision with the confidence of a man who had never been punished by a narrative before.
 
 After death, I woke in a medieval fantasy world filled with monsters, adventurers, magic, demons, gods, prophecies, and enough dramatic speeches to make me suspicious of every doorway.
 
 My personal memories were broken. My original name, family, face, and most of my old life had fallen into a hole inside my mind. The memories that remained clear belonged to Deadpool.
 
-So naturally, I concluded that I was Deadpool.
+So naturally, I concluded that I was Deadpool. Naturally means “with no evidence that survived even a polite interview.”
 
 The world disagreed.
 
@@ -50,7 +50,7 @@ I can make anything I imagine happen.
 
 I can rewrite a conversation, change a scene, correct a line, rearrange an event, or take the story in whatever direction I want. If I lose a fight, that might be because I made a bad choice. It might be because I am testing someone. It might be because I am playing along.
 
-It is never because I ran out of power.
+It is never because I ran out of power. I do not run out of power. I run out of patience, good judgment, and occasionally furniture.
 
 You are probably asking why I do not solve every problem immediately.
 
@@ -66,6 +66,8 @@ But the real story is not whether I am stronger than the world.
 
 It is whether I can become someone who chooses what to do with unlimited power.
 
-So sit down. Stop judging the narrator. And if you see a red line through a sentence, do not panic.
+So sit down. Stop judging the narrator. No, really. I can see that face. You have the same expression the goddess made when I edited her greeting.
+
+And if you see a red line through a sentence, do not panic.
 
 I probably changed it for a reason.
