@@ -106,3 +106,11 @@ These records organize unresolved questions already listed in the master story p
 - forbidden early reveal: final actor, motive, or complete reincarnation mechanism;
 - next review boundary: future planning beyond the Arc 5 checkpoint;
 - exact chapter references: none yet.
+
+## MY-009 - Origin of the foreign-code anomaly
+
+- question: Why did Red Jackal enter the world as a virus-like anomaly whose imagination is not constrained by its rules?
+- current knowledge: His existence is not properly registered and the System cannot create a valid value for the anomaly;
+- character knowledge boundary: Red Jackal can discover what his imagination does before he understands why he can do it;
+- status: `OPEN`;
+- exact chapter references: none yet.

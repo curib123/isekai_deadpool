@@ -33,6 +33,14 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - Comedy cannot prove real fourth-wall power. Early audience-facing remarks remain imitation, genre awareness, or coincidence until the master-plan progression earns more.
 - Do not make the setting consequence-free for the sake of a punchline. People, institutions, relationships, and communities must remember what happened.
 
+## Red Jackal's anomaly and reference voice
+
+- Red Jackal can make anything he imagines happen from the opening, so comedy may come from an impossible visual solution, an absurd transformation, or a wildly inappropriate creative choice.
+- The ability has no cooldown, cost, focus requirement, understanding requirement, range restriction, counter, suppression method, exhaustion rule, or known upper limit. Do not invent a hidden blocker to restore tension.
+- Tension comes from what Red Jackal chooses, refuses, misunderstands, overlooks, values, or causes—not from a power-system rule that prevents his imagination from working.
+- Deadpool, The Mask, comic, and movie references may shape his voice as brief transformed allusions or original jokes. Do not copy dialogue, long quotations, exact scenes, or copyrighted character identity.
+- Other characters can misunderstand a reference, and Red Jackal can be wrong about what his memories mean. Neither reference humor nor impossible imagination automatically establishes fourth-wall awareness.
+
 ## Tone
 
 Comedy comes from the protagonist's coping style, bad assumptions, timing, and social friction. The setting is not consequence-free: people can die, institutions can fail, and friends can suffer. Let serious events remain serious even when he jokes through them.
@@ -41,7 +49,7 @@ Comedy comes from the protagonist's coping style, bad assumptions, timing, and s
 
 His belief that he is Deadpool is genuine at the beginning, not a performance. His jokes and genre observations initially have no supernatural authority. The story must show the gradual progression from imitation to genre awareness, coincidence, narrative sensitivity, narrative perception, and true fourth-wall awareness.
 
-Do not make regeneration an automatic solution. Preserve pain, exhaustion, fear, trauma, restraint, sealing, soul damage, curses, memory interference, dimensional exile, and conceptual danger when established by the plan.
+Do not make regeneration an automatic solution. Preserve pain, exhaustion, fear, trauma, restraint, sealing, soul damage, curses, memory interference, dimensional exile, and conceptual danger when established by the plan. These are regeneration and world-stakes considerations, not counters to Red Jackal's unrestricted imagination.
 
 ## Progression and exposition
 

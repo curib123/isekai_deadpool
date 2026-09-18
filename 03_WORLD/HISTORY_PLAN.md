@@ -45,7 +45,7 @@ Mortal history must show that the world is not a joke. Death, institutional fail
 
 ### 7. Reincarnation event
 
-An ordinary Earth-born human fan awakens in a fantasy world with severe memory loss, clear Deadpool memories, an unreadable or unregistered soul, and abnormal regeneration. The exact transition, summoning authority, selection mechanism, missing-memory cause, and reason for the memory imbalance are `UNKNOWN / NOT ESTABLISHED`.
+An ordinary Earth-born human fan awakens in a fantasy world with severe memory loss, clear Deadpool memories, an unreadable or unregistered soul, abnormal regeneration, and a foreign-code imagination anomaly. The exact transition, summoning authority, selection mechanism, missing-memory cause, reason for the memory imbalance, and source of the virus-like intrusion are `UNKNOWN / NOT ESTABLISHED`.
 
 The protagonist is never secretly Wade Wilson. The reincarnation event must preserve this locked identity rule.
 
@@ -76,6 +76,7 @@ Before adding a historical event:
 - who created or maintains the System;
 - how the Great Design began and how it persists;
 - why the protagonist was not registered;
+- what foreign-code process allowed Red Jackal's imagination to enter the world;
 - why regeneration was assigned to him;
 - who or what initiated the reincarnation;
 - how prior Demon King cycles shaped current institutions;

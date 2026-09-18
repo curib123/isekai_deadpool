@@ -22,9 +22,9 @@ This boundary file records only the Arc 1 material established by the master pla
 
 - timeline/order position: opening arc; exact position UNKNOWN / NOT ESTABLISHED;
 - location: divine summoning chamber at opening; later mortal-world location UNKNOWN / NOT ESTABLISHED;
-- protagonist identity: an amnesiac Earth-born human who believes he is Deadpool because those memories survived more clearly than his own;
+- protagonist identity: Red Jackal, an amnesiac Earth-born human who believes he is Deadpool because those memories survived more clearly than his own;
 - protagonist existence state: damaged and unregistered by the System; exact soul state UNKNOWN / NOT ESTABLISHED;
-- defining ability: abnormal regeneration;
+- defining abilities: abnormal regeneration and an unrestricted imagination anomaly caused by his foreign-code existence;
 - System level/class/title: UNDEFINED;
 - fourth-wall state: Imitation only; no real fourth-wall power;
 - companions and relationships: UNKNOWN / NOT ESTABLISHED;
@@ -37,6 +37,8 @@ This boundary file records only the Arc 1 material established by the master pla
 - The official System terminology remains UNDEFINED, NO RECORD, FAILED, UNAVAILABLE, and ANOMALY.
 - Regeneration prevents ordinary death but does not remove pain, exhaustion, fear, restraint, sealing, soul damage, curses, or other counters.
 - His jokes and audience-facing comments are imitation, not proof of supernatural fourth-wall awareness.
+- Red Jackal's imagination anomaly is already active, can make anything he imagines happen, and has no cooldown, cost, focus requirement, understanding requirement, range restriction, counter, suppression method, exhaustion rule, or known upper limit.
+- Any choice not to use the anomaly must be character-driven; it cannot be explained as inability.
 
 ## Known story movement
 
@@ -53,11 +55,11 @@ Exact goddess identity, guild name, mortal settlement, examiner identities, and 
 
 ## Power and fourth-wall boundary
 
-- allowed growth: survival, observation, basic combat experience, and practical adaptation;
+- allowed growth: survival, observation, basic combat experience, practical adaptation, and learning how his already-unrestricted anomaly affects his choices;
 - System progression: no level or normal class progression;
 - regeneration: present, powerful, painful, and limited by non-ordinary counters;
 - fourth-wall stage: Imitation;
-- forbidden early reveal: genuine narrative perception or a supernatural ability to address an actual audience.
+- forbidden early reveal: genuine narrative perception or a supernatural ability to address an actual audience; the imagination anomaly is not fourth-wall awareness.
 
 ## Story memory
 
@@ -89,4 +91,3 @@ The exact event, witnesses, location, injuries, and consequences are UNKNOWN / N
 - System status: still undefined by the master-plan rule;
 - mystery status: unresolved;
 - next progression boundary: Arc 2 may develop combat style, relationships, world knowledge, and non-System growth only after an approved entry state exists.
-

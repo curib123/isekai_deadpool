@@ -31,6 +31,28 @@ Do not replace `UNDEFINED` with `UNKNOWN` as the protagonist's primary System st
 - System output can describe an attempted operation but cannot grant unearned knowledge to characters;
 - no System message may reveal author-only mystery truth before its approved boundary.
 
+## Red Jackal imagination anomaly
+
+Red Jackal's imagination is not a System feature, magic spell, fourth-wall technique, or earned progression stage. It is the direct expression of a foreign-code intrusion: a virus-like existence the world's rules were never designed to register.
+
+The ability is active from his first awakening. If Red Jackal imagines an effect and chooses to make it real, reality expresses it. He can imagine weapons, bodies, environments, creatures, transformations, impossible movement, solutions, or effects that violate ordinary world rules.
+
+This ability has no mechanical blocker:
+
+- no cooldown;
+- no resource cost;
+- no focus requirement;
+- no understanding requirement;
+- no range restriction;
+- no counter;
+- no suppression method;
+- no exhaustion rule;
+- no known upper limit.
+
+The world may react socially, politically, emotionally, or historically to what he creates, but those reactions are consequences of events rather than counters that can prevent the imagined effect. Red Jackal's non-use of the ability must come from character choice, ignorance of what he wants, distraction, emotional conflict, humor, mercy, curiosity, or a decision to let events unfold. It must never be explained as inability, hidden cost, cooldown, suppression, or an undiscovered counter.
+
+This anomaly remains separate from the slow fourth-wall progression. Red Jackal can alter reality without understanding Fate or the Great Design. References to Deadpool, The Mask, comics, or films shape his voice and imagination, but do not make him a copied character or prove literal audience access.
+
 ## Regeneration
 
 ### Established function
@@ -56,7 +78,7 @@ Every regeneration victory must leave a cost, changed condition, learned limit, 
 
 ### Combat use
 
-The protagonist may deliberately use his body as a tactical resource: bait, trap, shield, anchor, or opening. The tactic must remain painful, risky, and situation-dependent. It cannot become a universal answer to every opponent.
+The protagonist may deliberately use his body as a tactical resource: bait, trap, shield, anchor, or opening. The tactic must remain painful, risky, and situation-dependent. This applies to regeneration and ordinary combat choices; it does not restrict the separate imagination anomaly.
 
 ## Magic
 
@@ -106,11 +128,13 @@ Every future ability, technique, resistance, or permanent adaptation must record
 - parent arc/volume authority;
 - exact canonized chapter reference after prose approval.
 
+Red Jackal's imagination anomaly is excluded from this acquisition contract because it is present from the opening and is not acquired, trained, upgraded, or unlocked. Any distinct technique he develops around it may still be recorded as a choice, habit, or named application without imposing a power-system limitation on the underlying anomaly.
+
 ## Tension safeguards
 
-- no ability solves every problem;
+- no non-anomaly ability solves every problem; Red Jackal's imagination anomaly is intentionally unrestricted;
 - no counter appears only when convenient without prior possibility or cost;
 - a power can win a fight while losing time, trust, information, resources, or safety;
 - the protagonist's survival does not guarantee his companions survive;
 - future possibilities remain possible, not acquired;
-- System failure is not automatic narrative permission to ignore world rules.
+- System failure is not automatic narrative permission for other characters to ignore world rules; Red Jackal's anomaly is the established exception that exposes the world's inability to process him.

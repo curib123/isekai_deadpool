@@ -30,7 +30,7 @@ Required checks:
 - use close third person unless an approved plan authorizes another viewpoint;
 - keep knowledge, sensory access, and interpretation inside the viewpoint boundary;
 - distinguish what the character knows, suspects, remembers, assumes, and the reader knows;
-- do not use the protagonist's Deadpool imitation to grant supernatural narrator access early;
+- do not use the protagonist's Deadpool imitation or Red Jackal's unrestricted imagination anomaly to grant supernatural narrator access early;
 - do not reveal a future power, identity truth, or Great Design rule through narration before its approved reveal boundary.
 
 ## Dialogue
@@ -57,6 +57,15 @@ Required checks:
 - keep death, grief, betrayal, disability, trauma, and irreversible loss consequential;
 - do not use a punchline to undo an injury, restore trust, erase fear, or cancel a decision;
 - treat the protagonist's audience-facing remarks as imitation or pattern recognition until the fourth-wall progression earns a real stage.
+
+## Red Jackal voice and references
+
+- Red Jackal's comedy should often arrive from an unexpected response to the immediate situation rather than from a constant stream of quips;
+- Deadpool, The Mask, comic-book, television, and film references are allowed as brief transformed allusions, comparisons, or original jokes from his damaged memory;
+- do not copy dialogue, reproduce long quotations, recreate exact scenes, or make Red Jackal secretly become a copyrighted character;
+- the fantasy cast may misunderstand, reject, or completely miss a reference, and that mismatch can create comedy without making the world feel less real;
+- his imagination may produce absurd visual or physical results, but those results still alter bodies, property, trust, institutions, and history;
+- a reference or punchline is never proof of fourth-wall awareness by itself.
 
 ## Fourth-wall progression guard
 

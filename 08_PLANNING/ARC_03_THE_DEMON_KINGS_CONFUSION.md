@@ -22,7 +22,7 @@ This boundary file records the Arc 3 escalation and identity pressure without in
 - prior arc exit: rumors have spread about an unranked adventurer who survives impossible combat; exact reputation and location UNKNOWN / NOT ESTABLISHED;
 - protagonist identity: still using Deadpool as a genuine but mistaken identity;
 - existence state: unregistered and difficult for the System to classify;
-- defining ability: abnormal regeneration;
+- defining abilities: abnormal regeneration and an unrestricted imagination anomaly that the Demon King's forces cannot classify through the System;
 - System status: UNDEFINED, with no normal level or class;
 - fourth-wall state: slow progression only; exact stage at entry UNKNOWN / NOT ESTABLISHED;
 - demon forces: aware of rumors about an immortal human; specific forces and command structure UNKNOWN / NOT ESTABLISHED;
@@ -35,6 +35,7 @@ This boundary file records the Arc 3 escalation and identity pressure without in
 - His memories of Deadpool survived clearly because he was an ordinary fan; the exact reincarnation mechanism is UNKNOWN / NOT ESTABLISHED.
 - Restored memories do not automatically become complete identity or current character knowledge.
 - The System remains unable to define him.
+- His imagination anomaly remains unrestricted. Capture, containment, or enemy strategy may affect what he chooses to do, but cannot suppress or counter the ability itself.
 
 ## Known story movement
 
@@ -51,8 +52,8 @@ The named demon general, exact capture method, escape method, recovered pre-rein
 
 ## Power and fourth-wall boundary
 
-- allowed growth: survival strategy, combat adaptation, psychological resilience, and understanding of enemy counters;
-- regeneration: remains powerful but not an automatic solution;
+- allowed growth: survival strategy, combat adaptation, psychological resilience, understanding of enemy counters, and responsibility for what his imagination makes possible;
+- regeneration: remains powerful but not an automatic solution; this does not limit the separate imagination anomaly;
 - System progression: no normal levels, classes, or hidden evolution;
 - fourth-wall stage: no genuine fourth-wall power; genre awareness or coincidence may be present only if earned by the preceding arc;
 - memory: recovery is a mystery movement, not a power upgrade.
@@ -87,4 +88,3 @@ The exact memory scene, emotional consequence, and immediate next objective are 
 - System status: still UNDEFINED;
 - identity movement: denial and fear become active internal conflict;
 - next progression boundary: Arc 4 may widen the investigation to gods, prophecy, divination, and Fate.
-

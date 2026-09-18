@@ -99,3 +99,12 @@ These are planned continuity seeds derived from the master plan. `PLANNED` means
 - payoff condition: an enemy or situation defeats his usual survival assumption;
 - consequence requirement: adaptation has a cost, limitation, or psychological effect;
 - exact chapter references: none yet.
+
+## FS-009 - The world obeys an impossible thought
+
+- planned thread: A small, unmistakable reality-expression demonstrates that Red Jackal's imagination can override an ordinary world rule;
+- reveal boundary: Early anomaly discovery, without explaining the anomaly's origin;
+- permitted early form: the effect may appear absurd, startling, or funny, but the physical and social consequences must remain real;
+- later payoff direction: Red Jackal learns that the world cannot counter the underlying ability, while his choices about using it still shape identity and consequence;
+- status: `PLANNED`;
+- exact chapter references: none yet.

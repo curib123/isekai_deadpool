@@ -123,6 +123,14 @@ But his belief becomes part of the person he eventually grows into.
 
 ---
 
+# Red Jackal
+
+**Red Jackal** is the protagonist's approved narrative and in-world identity name. His original Earth name remains unknown because of the memory damage. In the opening, he may still insist that he is Deadpool; Red Jackal is the identity he eventually owns rather than a secret confirmation that he was Wade Wilson.
+
+His imagination behaves like a foreign-code intrusion into the world's reality rules. He is not properly registered because the world is attempting to process a virus-like anomaly that was never part of its original system.
+
+---
+
 # Initial Status
 
 Whenever the System attempts to inspect him:
@@ -327,6 +335,8 @@ He can improve:
 
 His body may also naturally adapt because of his abnormal regeneration.
 
+He also possesses an unrestricted imagination anomaly. If Red Jackal chooses to imagine an effect, reality can express it. This ability is not granted by the System and does not require a level, class, resource, cooldown, focus, understanding, or permission from the world's rules.
+
 However:
 
 **none of these improvements appear on his status screen.**
@@ -341,7 +351,7 @@ The System still says:
 
 # Regeneration
 
-His primary supernatural ability is abnormal regeneration.
+One of his primary supernatural abilities is abnormal regeneration.
 
 The regeneration is extremely powerful.
 
@@ -366,6 +376,34 @@ He can still experience:
 His regeneration prevents ordinary death.
 
 It does not automatically solve every problem.
+
+---
+
+# Imagination Anomaly
+
+Red Jackal can make anything he imagines happen.
+
+This is not a System skill, magic spell, fourth-wall power, or learned progression route. It is the direct expression of his foreign-code existence inside a world whose rules were not built to process him.
+
+The ability has no mechanical blockers.
+
+It has:
+
+- no cooldown;
+- no resource cost;
+- no focus requirement;
+- no understanding requirement;
+- no range restriction;
+- no counter;
+- no suppression method;
+- no exhaustion rule;
+- no known upper limit.
+
+Red Jackal may imagine weapons, bodies, environments, creatures, impossible movement, transformations, solutions, or effects that violate ordinary world rules. The world may still react socially, politically, emotionally, or historically to what he does, but no power-system rule prevents the imagined effect from occurring.
+
+Any moment in which he does not use this ability must come from his choice, ignorance of what he wants, distraction, emotional conflict, humor, mercy, curiosity, or a decision to let events unfold. It must never be explained as a hidden cost, blocker, counter, cooldown, or inability.
+
+The imagination anomaly is separate from fourth-wall awareness. Red Jackal can alter reality without knowing that Fate or the Great Design exists. His Deadpool and The Mask references influence his style, improvisation, and visual imagination, but he remains an original person and does not become either copyrighted character.
 
 ---
 
@@ -731,6 +769,8 @@ Why did his personal memories disappear?
 Why did his memories of Deadpool survive so clearly?
 
 Why did he receive regeneration?
+
+Why can Red Jackal's imagination override the world's rules?
 
 Why can't the System classify him?
 
@@ -1281,6 +1321,8 @@ His growth comes from:
 His progression is real.
 
 The System simply cannot measure it.
+
+Red Jackal's unrestricted imagination is not a progression milestone. It exists from the beginning as part of his foreign-code anomaly. His non-System progression concerns how he thinks, chooses, fights, understands consequences, and develops an identity while possessing that unlimited ability.
 
 ---
 

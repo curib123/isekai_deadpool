@@ -22,7 +22,7 @@ This boundary file records the divine and prophetic escalation without defining 
 - prior arc exit: the protagonist knows Deadpool was fictional in his original world and is experiencing identity collapse; exact location and support network UNKNOWN / NOT ESTABLISHED;
 - protagonist identity: neither the old identity nor Deadpool fully resolves the present self;
 - existence state: not properly registered by the System or divine records;
-- defining ability: abnormal regeneration with established counters;
+- defining abilities: abnormal regeneration with established counters and an unrestricted imagination anomaly outside divine and System classification;
 - System status: UNDEFINED;
 - divine awareness: gods begin investigating him; identities, factions, and motives UNKNOWN / NOT ESTABLISHED;
 - fourth-wall state: imitation, genre awareness, coincidence, and suspicion may have developed only through approved prior events.
@@ -32,6 +32,7 @@ This boundary file records the divine and prophetic escalation without defining 
 - Divination may produce UNDEFINED, NO RECORD, or unstable/incomplete results, but it does not turn him into a normal System entry.
 - Prophecy may be incomplete, contradictory, or unstable around him.
 - Pattern recognition is not automatic future sight.
+- Fate, prophecy, divination, and divine power cannot suppress or counter Red Jackal's imagination anomaly; they may react to its consequences or fail to describe it.
 - The fourth-wall progression remains slow: Imitation -> Genre Awareness -> Coincidence -> Suspicion -> Narrative Sensitivity -> Narrative Perception -> True Anomaly.
 - The Great Design is not yet a fully exposed final conflict at the start of this arc.
 
@@ -51,11 +52,11 @@ The gods, artifact, prophecy, event, political consequences, and exact predictio
 
 ## Power and fourth-wall boundary
 
-- allowed growth: understanding of divine rules, prophecy limitations, and the difference between pattern recognition and supernatural perception;
+- allowed growth: understanding of divine rules, prophecy limitations, the difference between pattern recognition and supernatural perception, and the consequences of using unlimited imagination in a world governed by Fate;
 - System status: remains UNDEFINED / NO RECORD according to the operation;
 - Fate relationship: difficult for Fate to account for, not immune to causality;
 - fourth-wall stage: suspicion or early narrative sensitivity only if earned on-page;
-- forbidden reveal: complete Great Design mechanics or final antagonist reaction before Arc 5.
+- forbidden reveal: complete Great Design mechanics or final antagonist reaction before Arc 5; the anomaly's origin remains unresolved.
 
 ## Story memory
 
@@ -87,4 +88,3 @@ The event, intervention, prophecy language, witnesses, cost, and consequences ar
 - System status: still unable to define him;
 - fourth-wall state: exact stage UNKNOWN / NOT ESTABLISHED;
 - next progression boundary: Arc 5 may reveal the Great Design and allow reality to react to his perception.
-

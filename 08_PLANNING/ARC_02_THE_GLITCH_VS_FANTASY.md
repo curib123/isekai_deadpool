@@ -23,7 +23,7 @@ This boundary file records only the Arc 2 material established by the master pla
 - location: UNKNOWN / NOT ESTABLISHED;
 - protagonist identity: still publicly using Deadpool while identity uncertainty remains unresolved;
 - existence state: unregistered System anomaly;
-- defining ability: abnormal regeneration;
+- defining abilities: abnormal regeneration and the already-active unrestricted imagination anomaly;
 - System progression: no level, class, or normal progression sheet;
 - fourth-wall state: Imitation or early Genre Awareness only, according to the approved prior entry state;
 - companions: UNKNOWN / NOT ESTABLISHED;
@@ -36,6 +36,7 @@ This boundary file records only the Arc 2 material established by the master pla
 - Regeneration supports dangerous tactics but does not solve imprisonment, sealing, paralysis, soul damage, curses, dimensional exile, memory interference, conceptual attacks, or existence attacks.
 - The world itself remains consequential; comedy is a coping mechanism, not proof that suffering is meaningless.
 - A future relationship must be earned through events; no companion is established by this roadmap file.
+- The imagination anomaly has no mechanical counter or blocker; Arc 2 tension comes from Red Jackal's choices, consequences, relationships, and understanding of the world.
 
 ## Known story movement
 
@@ -50,11 +51,11 @@ Exact quest content, companions, faction names, locations, injuries, and chapter
 
 ## Power and fourth-wall boundary
 
-- allowed growth: non-System mastery, combat creativity, tactical thinking, and regeneration control;
+- allowed growth: non-System mastery, combat creativity, tactical thinking, regeneration control, and deliberate or reluctant use of an already-unrestricted imagination anomaly;
 - permanent Evolution: UNKNOWN / NOT ESTABLISHED; do not add one without a parent authority and earned prerequisites;
 - System status: remains UNDEFINED and cannot become a normal progression sheet;
 - fourth-wall stage: Genre Awareness may begin, but real supernatural narrative power is not authorized;
-- future counters: restraint, sealing, imprisonment, and other non-ordinary attacks remain valid sources of tension.
+- future counters: restraint, sealing, imprisonment, and other non-ordinary attacks remain valid regeneration and world-stakes pressures, but they cannot counter the underlying imagination anomaly.
 
 ## Story memory
 
@@ -86,4 +87,3 @@ The opponent, location, witnesses, method, cost, and exact consequences are UNKN
 - System status: still UNDEFINED;
 - identity movement: relationships begin to provide an identity separate from imitation;
 - next progression boundary: Arc 3 may escalate external attention and restore memory fragments after an approved entry state exists.
-

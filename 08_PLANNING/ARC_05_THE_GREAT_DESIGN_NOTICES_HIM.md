@@ -22,7 +22,7 @@ This boundary file records the master-plan transition from comedy and suspicion 
 - prior arc exit: a prophecy has failed after the protagonist interfered with an inevitable event; exact aftermath UNKNOWN / NOT ESTABLISHED;
 - protagonist identity: actively questioning who he is beyond the old identity and Deadpool imitation;
 - existence state: difficult for System, divine records, prophecy, and Fate to account for;
-- defining ability: abnormal regeneration, still limited by non-ordinary counters;
+- defining abilities: abnormal regeneration, still limited by non-ordinary counters, and an unrestricted imagination anomaly that has no mechanical counter;
 - System status: UNDEFINED, NO RECORD, FAILED, or UNAVAILABLE according to operation;
 - fourth-wall state: narrative sensitivity or narrative perception may be present only if earned by prior approved prose;
 - Great Design awareness: incomplete and not fully exposed at entry.
@@ -35,6 +35,7 @@ This boundary file records the master-plan transition from comedy and suspicion 
 - His discovery does not retroactively prove that every earlier joke was supernatural.
 - The Demon King and gods are participants in a larger structure, not automatically the ultimate enemy.
 - The protagonist's final identity is chosen through development; neither his original identity nor Deadpool fully defines him.
+- The Great Design may react to what Red Jackal imagines and causes, but it cannot prevent the underlying imagination effect from occurring.
 
 ## Known story movement
 
@@ -50,11 +51,11 @@ Exact evidence, mechanism, person or force that reacts, and consequences are UNK
 
 ## Power and fourth-wall boundary
 
-- allowed growth: narrative sensitivity, narrative perception, and eventual True Anomaly only as earned stages;
+- allowed growth: narrative sensitivity, narrative perception, and eventual True Anomaly only as earned stages, while the imagination anomaly remains available from the opening;
 - System progression: no normal level, class, title, hidden evolution, or ultimate System designation;
 - Fate relationship: irregular registration, not immunity;
 - regeneration: remains a survival tool with meaningful counters;
-- forbidden shortcut: immediate supernatural fourth-wall power at the story opening.
+- forbidden shortcut: immediate supernatural fourth-wall power at the story opening; Red Jackal's immediate reality-expression is not fourth-wall power.
 
 ## Story memory
 

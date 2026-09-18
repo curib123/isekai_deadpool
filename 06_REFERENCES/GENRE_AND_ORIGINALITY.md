@@ -12,4 +12,4 @@ Core appeal:
 - interconnected world consequences;
 - understandable villains;
 - mysteries with planted evidence;
-- an increasingly overpowered protagonist challenged by systems, responsibility, information, politics, protection, and specialized counters.
+- an increasingly overpowered protagonist whose unrestricted imagination creates responsibility, information, politics, protection, and social consequences even though the underlying ability has no specialized counter.
