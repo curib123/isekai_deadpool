@@ -1,4 +1,4 @@
-# Chapter 017 Entry State - Red Jackal Tells You: The Summoning Error: The Joke Fails
+# Chapter 017 Entry State - Red Jackal Tells You: The Summoning Error - What Happens When the Joke Fails?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

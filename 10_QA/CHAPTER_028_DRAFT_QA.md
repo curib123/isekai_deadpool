@@ -1,4 +1,4 @@
-# Chapter 028 Draft QA - The Summoning Error: The Road Ahead
+# Chapter 028 Draft QA - Red Jackal Tells You: The Summoning Error - What Waits on the Road Ahead?
 
 ## Draft status
 

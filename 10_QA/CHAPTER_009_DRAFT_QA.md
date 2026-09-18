@@ -1,4 +1,4 @@
-# Chapter 009 Draft QA - The Summoning Error: The Cost of Delay
+# Chapter 009 Draft QA - Red Jackal Tells You: The Summoning Error - What Does Delay Cost?
 
 ## Draft status
 

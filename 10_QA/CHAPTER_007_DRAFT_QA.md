@@ -1,4 +1,4 @@
-# Chapter 007 Draft QA - The Summoning Error: A Bad Assumption
+# Chapter 007 Draft QA - Red Jackal Tells You: The Summoning Error - Which Assumption Was Bad?
 
 ## Draft status
 

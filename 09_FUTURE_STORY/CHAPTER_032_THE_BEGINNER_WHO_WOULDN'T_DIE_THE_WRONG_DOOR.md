@@ -1,4 +1,4 @@
-# Chapter 032 - Red Jackal Tells You: The Beginner Who Wouldn't Die: The Wrong Door
+# Chapter 032 - Red Jackal Tells You: The Beginner Who Wouldn't Die - Was That Really the Wrong Door?
 
 The eastern archive had three entrances.
 

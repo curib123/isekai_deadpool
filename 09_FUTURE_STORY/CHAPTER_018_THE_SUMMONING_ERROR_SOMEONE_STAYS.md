@@ -1,4 +1,4 @@
-# Chapter 018 - Red Jackal Tells You: The Summoning Error: Someone Stays
+# Chapter 018 - Red Jackal Tells You: The Summoning Error - Who Decides to Stay?
 
 Tomas was supposed to leave at sunset.
 

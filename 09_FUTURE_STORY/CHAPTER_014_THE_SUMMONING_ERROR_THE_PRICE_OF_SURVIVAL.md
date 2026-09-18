@@ -1,4 +1,4 @@
-# Chapter 014 - Red Jackal Tells You: The Summoning Error: The Price of Survival
+# Chapter 014 - Red Jackal Tells You: The Summoning Error - What Is the Price of Survival?
 
 Bellwether survived the bell knight.
 

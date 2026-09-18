@@ -1,4 +1,4 @@
-# Chapter 002 - Red Jackal Tells You: The Summoning Error: The Wrong Door
+# Chapter 002 - Red Jackal Tells You: The Summoning Error - Was That Really the Wrong Door?
 
 “Then the summoning began.”
 

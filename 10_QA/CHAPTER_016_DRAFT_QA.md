@@ -1,4 +1,4 @@
-# Chapter 016 Draft QA - The Summoning Error: A Name Spoken
+# Chapter 016 Draft QA - Red Jackal Tells You: The Summoning Error - Whose Name Was Spoken?
 
 ## Draft status
 

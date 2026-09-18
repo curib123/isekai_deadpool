@@ -104,6 +104,8 @@ Make meaningful edits clear to the reader through close narration. Do not concea
 
 Every volume, arc, synopsis, prologue, and numbered chapter title must explicitly carry Red Jackal's storyteller frame. Use `Red Jackal Tells You: [clear subject]` after the volume, arc, or chapter number where applicable. The title may contain a joke or warning, but it must not hide the actual subject of the chapter.
 
+Numbered chapter titles use a web-novel-style question. Keep the plot subject visible, then let Red Jackal ask the reader about it: `Red Jackal Tells You: The Wrong Door - Was That Really the Wrong Door?` A chapter title may be dramatic, sarcastic, or absurd, but it must end as a meaningful question or make the fourth-wall address unmistakable.
+
 The title frame does not create a second narrator. Red Jackal remains the only narrative voice, and characters do not hear the title unless the prose deliberately turns it into a scene joke.
 
 ## Chapter length and structure

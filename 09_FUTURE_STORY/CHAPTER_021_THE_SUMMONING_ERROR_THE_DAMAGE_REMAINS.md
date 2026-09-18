@@ -1,4 +1,4 @@
-# Chapter 021 - Red Jackal Tells You: The Summoning Error: The Damage Remains
+# Chapter 021 - Red Jackal Tells You: The Summoning Error - What If the Damage Remains?
 
 Bellwether did not forget the hole.
 

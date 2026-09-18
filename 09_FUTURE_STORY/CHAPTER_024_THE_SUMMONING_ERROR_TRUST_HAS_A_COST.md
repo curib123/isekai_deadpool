@@ -1,4 +1,4 @@
-# Chapter 024 - Red Jackal Tells You: The Summoning Error: Trust Has a Cost
+# Chapter 024 - Red Jackal Tells You: The Summoning Error - What Does Trust Cost?
 
 The arrivals waystation was not a station.
 

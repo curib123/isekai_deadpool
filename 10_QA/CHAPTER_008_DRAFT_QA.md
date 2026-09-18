@@ -1,4 +1,4 @@
-# Chapter 008 Draft QA - The Summoning Error: Pressure Builds
+# Chapter 008 Draft QA - Red Jackal Tells You: The Summoning Error - How Much Pressure Can Build?
 
 ## Draft status
 

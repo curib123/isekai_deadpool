@@ -6,6 +6,7 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 
 - Use first-person narration from Chapter 1 onward: I, me, my, and we when Red Jackal includes the reader.
 - Every volume, arc, synopsis, prologue, and chapter title must visibly identify Red Jackal as the storyteller. Use the title pattern `Red Jackal Tells You: [title]` so the fourth-wall framing is clear before the prose begins.
+- Numbered chapter titles must also be phrased as a question or contain a direct fourth-wall question. Use a clear subject followed by Red Jackal's question, such as `Red Jackal Tells You: The Wrong Door - Was That Really the Wrong Door?`.
 - Red Jackal is personally recounting his life while scenes remain immediate. Do not write him as a distant historian calmly summarizing events.
 - Keep spoken dialogue in quotation marks and preserve each character's knowledge and voice.
 - Vary sentence and paragraph length naturally.
@@ -23,7 +24,7 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - He may skip boring details, emphasize embarrassing details, correct himself, rewind mentally, foreshadow a later disaster, or say that an event becomes important later.
 - Red Jackal may be unreliable: he may exaggerate, understate danger, hide embarrassment, deny fear, reinterpret memories, or claim an accident was intentional.
 - The reader must still understand the event, the emotional truth, and the consequences beneath his performance.
-- Title framing is part of the voice: Red Jackal may make the title defensive, dramatic, sarcastic, or self-aware, but the underlying subject must remain clear.
+- Title framing is part of the voice: Red Jackal may make the title defensive, dramatic, sarcastic, or self-aware, but the underlying subject must remain clear. A question mark should feel like his voice, not like empty decoration.
 
 ## Speaker clarity and fourth-wall separation
 

@@ -1,4 +1,4 @@
-# Chapter 025 Draft QA - The Summoning Error: The Answer Moves
+# Chapter 025 Draft QA - Red Jackal Tells You: The Summoning Error - Why Does the Answer Move?
 
 ## Draft status
 

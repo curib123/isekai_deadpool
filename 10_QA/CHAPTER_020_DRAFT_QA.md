@@ -1,4 +1,4 @@
-# Chapter 020 Draft QA - The Summoning Error: A Different Kind of Brave
+# Chapter 020 Draft QA - Red Jackal Tells You: The Summoning Error - What Kind of Brave Is This?
 
 ## Draft status
 

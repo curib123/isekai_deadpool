@@ -1,4 +1,4 @@
-# Chapter 020 - Red Jackal Tells You: The Summoning Error: A Different Kind of Brave
+# Chapter 020 - Red Jackal Tells You: The Summoning Error - What Kind of Brave Is This?
 
 The registry tower rang at sunrise.
 

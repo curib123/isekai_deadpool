@@ -1,4 +1,4 @@
-# Chapter 029 Draft QA - The Summoning Error: Not the Ending
+# Chapter 029 Draft QA - Red Jackal Tells You: The Summoning Error - You Do Not Think This Is the Ending, Do You?
 
 ## Draft status
 

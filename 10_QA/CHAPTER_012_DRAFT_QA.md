@@ -1,4 +1,4 @@
-# Chapter 012 Draft QA - The Summoning Error: The Witness
+# Chapter 012 Draft QA - Red Jackal Tells You: The Summoning Error - Who Is the Witness?
 
 ## Draft status
 

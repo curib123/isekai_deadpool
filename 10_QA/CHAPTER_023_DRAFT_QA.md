@@ -1,4 +1,4 @@
-# Chapter 023 Draft QA - The Summoning Error: The Body Remembers
+# Chapter 023 Draft QA - Red Jackal Tells You: The Summoning Error - What Does the Body Remember?
 
 ## Draft status
 

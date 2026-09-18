@@ -1,4 +1,4 @@
-# Chapter 022 - Red Jackal Tells You: The Summoning Error: A Rumor Travels
+# Chapter 022 - Red Jackal Tells You: The Summoning Error - Where Does the Rumor Travel?
 
 The rumor left Bellwether before we did.
 

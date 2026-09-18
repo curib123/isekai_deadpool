@@ -1,4 +1,4 @@
-# Chapter 021 Entry State - Red Jackal Tells You: The Summoning Error: The Damage Remains
+# Chapter 021 Entry State - Red Jackal Tells You: The Summoning Error - What If the Damage Remains?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

@@ -1,4 +1,4 @@
-# Chapter 004 Draft QA - The Summoning Error: A Question with Teeth
+# Chapter 004 Draft QA - Red Jackal Tells You: The Summoning Error - Why Does the Question Have Teeth?
 
 ## Draft status
 

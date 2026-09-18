@@ -1,4 +1,4 @@
-# Chapter 022 Draft QA - The Summoning Error: A Rumor Travels
+# Chapter 022 Draft QA - Red Jackal Tells You: The Summoning Error - Where Does the Rumor Travel?
 
 ## Draft status
 

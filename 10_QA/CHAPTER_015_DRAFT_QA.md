@@ -1,4 +1,4 @@
-# Chapter 015 Draft QA - The Summoning Error: The Choice Nobody Likes
+# Chapter 015 Draft QA - Red Jackal Tells You: The Summoning Error - Who Makes the Choice Nobody Likes?
 
 ## Draft status
 

@@ -1,4 +1,4 @@
-# Chapter 011 Entry State - Red Jackal Tells You: The Summoning Error: The Rule Bends
+# Chapter 011 Entry State - Red Jackal Tells You: The Summoning Error - How Far Can the Rule Bend?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

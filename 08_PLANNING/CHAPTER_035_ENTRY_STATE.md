@@ -1,4 +1,4 @@
-# Chapter 035 Entry State - Red Jackal Tells You: The Beginner Who Wouldn't Die: The Quiet Before
+# Chapter 035 Entry State - Red Jackal Tells You: The Beginner Who Wouldn't Die - How Quiet Is the Quiet Before?
 
 - volume: Volume 02 - The Beginner Who Wouldn't Die;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

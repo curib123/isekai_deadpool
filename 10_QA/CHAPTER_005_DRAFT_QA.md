@@ -1,4 +1,4 @@
-# Chapter 005 Draft QA - The Summoning Error: The Quiet Before
+# Chapter 005 Draft QA - Red Jackal Tells You: The Summoning Error - How Quiet Is the Quiet Before?
 
 ## Draft status
 

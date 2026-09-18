@@ -1,4 +1,4 @@
-# Chapter 004 Entry State - Red Jackal Tells You: The Summoning Error: A Question with Teeth
+# Chapter 004 Entry State - Red Jackal Tells You: The Summoning Error - Why Does the Question Have Teeth?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

@@ -1,4 +1,4 @@
-# Chapter 016 - Red Jackal Tells You: The Summoning Error: A Name Spoken
+# Chapter 016 - Red Jackal Tells You: The Summoning Error - Whose Name Was Spoken?
 
 The woman gave me her name in Room Two.
 

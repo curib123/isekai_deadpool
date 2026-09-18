@@ -1,4 +1,4 @@
-# Chapter 033 - Red Jackal Tells You: The Beginner Who Wouldn't Die: What He Notices
+# Chapter 033 - Red Jackal Tells You: The Beginner Who Wouldn't Die - What Did He Notice?
 
 The archive corridor had no floor.
 

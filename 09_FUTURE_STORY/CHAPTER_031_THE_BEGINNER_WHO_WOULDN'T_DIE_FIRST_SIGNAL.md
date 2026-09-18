@@ -1,4 +1,4 @@
-# Chapter 031 - Red Jackal Tells You: The Beginner Who Wouldn't Die: First Signal
+# Chapter 031 - Red Jackal Tells You: The Beginner Who Wouldn't Die - Did You Hear the First Signal?
 
 The box clicked before I touched it.
 

@@ -1,4 +1,4 @@
-# Chapter 026 Draft QA - The Summoning Error: The Next Door
+# Chapter 026 Draft QA - Red Jackal Tells You: The Summoning Error - Which Door Comes Next?
 
 ## Draft status
 

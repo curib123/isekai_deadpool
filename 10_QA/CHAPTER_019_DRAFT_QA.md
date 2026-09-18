@@ -1,4 +1,4 @@
-# Chapter 019 Draft QA - The Summoning Error: What He Cannot Say
+# Chapter 019 Draft QA - Red Jackal Tells You: The Summoning Error - What Can He Not Say?
 
 ## Draft status
 

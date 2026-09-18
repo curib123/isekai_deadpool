@@ -1,4 +1,4 @@
-# Chapter 015 Entry State - Red Jackal Tells You: The Summoning Error: The Choice Nobody Likes
+# Chapter 015 Entry State - Red Jackal Tells You: The Summoning Error - Who Makes the Choice Nobody Likes?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

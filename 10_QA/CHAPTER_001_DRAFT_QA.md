@@ -1,4 +1,4 @@
-# Chapter 001 Draft QA - Before the Isekai: The Deadpool Fan Dies
+# Chapter 001 Draft QA - Red Jackal Tells You: Before the Isekai - Did the Deadpool Fan Really Die?
 
 ## Draft status
 

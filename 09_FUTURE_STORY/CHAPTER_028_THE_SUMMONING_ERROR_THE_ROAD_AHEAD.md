@@ -1,4 +1,4 @@
-# Chapter 028 - Red Jackal Tells You: The Summoning Error: The Road Ahead
+# Chapter 028 - Red Jackal Tells You: The Summoning Error - What Waits on the Road Ahead?
 
 The road beyond the gate was brown, wide, and full of footprints that did not belong to human feet.
 

@@ -1,4 +1,4 @@
-# Chapter 023 Entry State - Red Jackal Tells You: The Summoning Error: The Body Remembers
+# Chapter 023 Entry State - Red Jackal Tells You: The Summoning Error - What Does the Body Remember?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

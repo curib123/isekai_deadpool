@@ -1,4 +1,4 @@
-# Chapter 026 Entry State - Red Jackal Tells You: The Summoning Error: The Next Door
+# Chapter 026 Entry State - Red Jackal Tells You: The Summoning Error - Which Door Comes Next?
 
 - volume: Volume 01 - The Summoning Error;
 - arc: Arc 1 - The Man Who Thinks He's Deadpool;

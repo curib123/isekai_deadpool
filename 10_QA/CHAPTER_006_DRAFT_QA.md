@@ -1,4 +1,4 @@
-# Chapter 006 Draft QA - The Summoning Error: The Easy Problem
+# Chapter 006 Draft QA - Red Jackal Tells You: The Summoning Error - Was There Ever an Easy Problem?
 
 ## Draft status
 

@@ -1,4 +1,4 @@
-# Chapter 011 Draft QA - The Summoning Error: The Rule Bends
+# Chapter 011 Draft QA - Red Jackal Tells You: The Summoning Error - How Far Can the Rule Bend?
 
 ## Draft status
 

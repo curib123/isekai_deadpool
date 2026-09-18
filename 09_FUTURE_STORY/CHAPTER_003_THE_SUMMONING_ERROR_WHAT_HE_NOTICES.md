@@ -1,4 +1,4 @@
-# Chapter 003 - Red Jackal Tells You: The Summoning Error: What He Notices
+# Chapter 003 - Red Jackal Tells You: The Summoning Error - What Did He Notice?
 
 The summoning chamber lost its lights.
 

@@ -1,4 +1,4 @@
-# Chapter 024 Draft QA - The Summoning Error: Trust Has a Cost
+# Chapter 024 Draft QA - Red Jackal Tells You: The Summoning Error - What Does Trust Cost?
 
 ## Draft status
 

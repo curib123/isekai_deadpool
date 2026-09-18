@@ -1,4 +1,4 @@
-# Chapter 013 Draft QA - The Summoning Error: An Unwanted Lesson
+# Chapter 013 Draft QA - Red Jackal Tells You: The Summoning Error - Who Asked for This Lesson?
 
 ## Draft status
 

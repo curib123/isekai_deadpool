@@ -1,4 +1,4 @@
-# Chapter 033 Draft QA - The Beginner Who Wouldn't Die: What He Notices
+# Chapter 033 Draft QA - Red Jackal Tells You: The Beginner Who Wouldn't Die - What Did He Notice?
 
 ## Draft status
 

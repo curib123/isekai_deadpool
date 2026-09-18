@@ -1,4 +1,4 @@
-# Chapter 019 - Red Jackal Tells You: The Summoning Error: What He Cannot Say
+# Chapter 019 - Red Jackal Tells You: The Summoning Error - What Can He Not Say?
 
 We worked through the night.
 

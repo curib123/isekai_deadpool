@@ -1,4 +1,4 @@
-# Chapter 023 - Red Jackal Tells You: The Summoning Error: The Body Remembers
+# Chapter 023 - Red Jackal Tells You: The Summoning Error - What Does the Body Remember?
 
 The first thing my body remembered was rain.
 

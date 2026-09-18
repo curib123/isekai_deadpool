@@ -1,4 +1,4 @@
-# Chapter 027 Draft QA - The Summoning Error: A Thread Left Open
+# Chapter 027 Draft QA - Red Jackal Tells You: The Summoning Error - Can a Thread Stay Open?
 
 ## Draft status
 

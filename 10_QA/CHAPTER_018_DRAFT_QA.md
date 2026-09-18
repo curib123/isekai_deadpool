@@ -1,4 +1,4 @@
-# Chapter 018 Draft QA - The Summoning Error: Someone Stays
+# Chapter 018 Draft QA - Red Jackal Tells You: The Summoning Error - Who Decides to Stay?
 
 ## Draft status
 

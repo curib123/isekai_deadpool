@@ -1,4 +1,4 @@
-# Chapter 031 Draft QA - The Beginner Who Wouldn't Die: First Signal
+# Chapter 031 Draft QA - Red Jackal Tells You: The Beginner Who Wouldn't Die - Did You Hear the First Signal?
 
 ## Draft status
 

@@ -1,4 +1,4 @@
-# Chapter 014 Draft QA - The Summoning Error: The Price of Survival
+# Chapter 014 Draft QA - Red Jackal Tells You: The Summoning Error - What Is the Price of Survival?
 
 ## Draft status
 

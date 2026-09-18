@@ -1,4 +1,4 @@
-# Chapter 006 - Red Jackal Tells You: The Summoning Error: The Easy Problem
+# Chapter 006 - Red Jackal Tells You: The Summoning Error - Was There Ever an Easy Problem?
 
 We ran toward the valley.
 
