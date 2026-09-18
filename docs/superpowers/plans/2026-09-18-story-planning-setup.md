@@ -210,13 +210,13 @@ Expected: the command completes without throwing.
 
 Run:
 
-    $prose = Get-ChildItem 09_FUTURE_STORY -Recurse -File -ErrorAction SilentlyContinue
+    $prose = Get-ChildItem 09_FUTURE_STORY -Recurse -File -ErrorAction SilentlyContinue | Where-Object { $_.Name -ne 'README.md' }
     if ($prose) { $prose | Select-Object -ExpandProperty FullName; throw 'Numbered story files exist before prose authorization.' }
     
     $planning = Get-Content -Raw 08_PLANNING/CHAPTER_REGISTER.md
     if ($planning -notmatch 'UNKNOWN / NOT ESTABLISHED') { throw 'Chapter register does not preserve unknown structure.' }
 
-Expected: no files exist in the future-story directory and the chapter register preserves unknown counts/titles.
+Expected: only the existing structural README remains in the future-story directory, with no numbered manuscript files, and the chapter register preserves unknown counts/titles.
 
 - [ ] Step 4: Record final QA evidence.
 
