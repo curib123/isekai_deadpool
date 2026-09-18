@@ -9,7 +9,7 @@
 - every future chapter still requires a parent authority, entry state, permitted delta, exit state, story-memory reconciliation, and a 1,000-word target;
 - no future power, knowledge, reveal, relationship, or history fact listed here is current before its approved entry state;
 - protagonist identity: Red Jackal is the approved narrative and in-world name; he may insist he is Deadpool at the opening while that identity remains a belief, not a secret confirmation;
-- imagination boundary: Red Jackal's foreign-code imagination anomaly is active from the opening and is completely unrestricted; it is separate from fourth-wall progression and cannot be given a cooldown, cost, focus requirement, understanding requirement, range restriction, counter, suppression method, exhaustion rule, or known upper limit;
+- narrative boundary: Red Jackal's foreign-code imagination and full fourth-wall/narrative-editing authority are active from the first page; neither ability has an unlock, cooldown, cost, focus requirement, understanding requirement, range restriction, counter, suppression method, exhaustion rule, or known upper limit;
 - Chapter 300 is a major checkpoint, not the final ending;
 - Chapter 301+ remains available for future planning;
 
@@ -21,7 +21,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 001-030 (provisional);
 - core promise: Introduce Red Jackal, the damaged protagonist, divine summoning, regeneration, the System, his sincere Deadpool identity, and the first signs of his foreign-code imagination anomaly.
 - identity boundary: I am Deadpool;
-- fourth-wall boundary: Imitation;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Survival, observation, pain, basic adaptation, and early reality-expression by choice; no System progression.
 - story-memory focus: MY-005 and FS-001 are planned only; Arc 1 may establish the first visible System failures.
 - exit checkpoint: The guild and witnesses cannot explain why a beginner survives.
@@ -38,7 +38,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 
 | Chapter | Working title | Function | Permitted boundary | Status |
 | --- | --- | --- | --- | --- |
-| Chapter 001 | The Summoning Error - First Signal | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
+| Chapter 001 | Before the Isekai - The Deadpool Fan Dies | begins in the original world with Red Jackal as a Deadpool fan facing death; close narration, simple English, lively dialogue, unexpected comedy, and clear fourth-wall awareness establish the opening voice before the isekai transition | Establish origin-world death and immediate narrative authority; do not delay or conceal fourth-wall truth | PROVISIONAL |
 | Chapter 002 | The Summoning Error - The Wrong Door | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 003 | The Summoning Error - What He Notices | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 004 | The Summoning Error - A Question with Teeth | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
@@ -75,7 +75,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 031-060 (provisional);
 - core promise: Complete the first guild and beginner-survival movement while making the anomaly socially visible.
 - identity boundary: Obviously I'm Deadpool;
-- fourth-wall boundary: Imitation -> early Genre Awareness;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Practical combat and regeneration control without levels or class.
 - story-memory focus: FS-008 may be introduced through pain and limits; MY-001 remains open.
 - exit checkpoint: An impossible survival creates a reputation that travels beyond the first institution.
@@ -129,7 +129,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 061-090 (provisional);
 - core promise: Turn survival into work, relationships, and earned non-System competence.
 - identity boundary: The first inconsistencies;
-- fourth-wall boundary: Genre Awareness;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Combat experience, tactics, and relationship-driven choices.
 - story-memory focus: FS-003 may be planned through recognizable patterns; companion histories remain character-specific.
 - exit checkpoint: A small quest creates consequences larger than its reward.
@@ -183,7 +183,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 091-120 (provisional);
 - core promise: Expand reputation, world pressure, and the difference between being feared and being understood.
 - identity boundary: What if I'm not?;
-- fourth-wall boundary: Genre Awareness -> Coincidence;
+- fourth-wall boundary: Full from the opening;
 - power boundary: More dangerous tactics, specialized counters, and no automatic regeneration solution.
 - story-memory focus: FS-001, FS-003, and FS-008 may reinforce without resolving the central mysteries.
 - exit checkpoint: He defeats a threat beyond an unranked adventurer's expected capacity.
@@ -237,7 +237,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 121-150 (provisional);
 - core promise: Bring organized antagonistic attention and test the limits of an immortal-seeming body.
 - identity boundary: Denial under pressure;
-- fourth-wall boundary: Coincidence;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Survival strategy against capture, restraint, and specialized attacks.
 - story-memory focus: MY-004 and MY-005 remain open; FS-008 becomes dangerous rather than merely useful.
 - exit checkpoint: The enemy learns that killing him is not the same as stopping him.
@@ -291,7 +291,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 151-180 (provisional);
 - core promise: Restore memory fragments and collapse the belief that Deadpool was his actual identity.
 - identity boundary: I wasn't Deadpool;
-- fourth-wall boundary: Coincidence -> Suspicion;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Memory recovery is not a power upgrade; psychological resilience has a cost.
 - story-memory focus: MY-001, MY-002, and MY-003 receive clues; FS-007 begins through changed choices.
 - exit checkpoint: He remembers Deadpool was fictional in his original world.
@@ -345,7 +345,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 181-210 (provisional);
 - core promise: Expose divine investigation, prophecy instability, and the limits of authority.
 - identity boundary: Then who was I?;
-- fourth-wall boundary: Suspicion;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Understanding divination, registries, and Fate without gaining immunity.
 - story-memory focus: FS-002 and MY-005/006 move through divine tests; exact gods and answers remain open.
 - exit checkpoint: Divine tools fail in ways that make his supposed insanity dangerous to ignore.
@@ -399,7 +399,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 211-240 (provisional);
 - core promise: Make the first deliberate interference with an outcome declared inevitable.
 - identity boundary: Memory changes present choices;
-- fourth-wall boundary: Suspicion -> Narrative Sensitivity;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Interference has costs; prophecy failure creates political and personal consequences.
 - story-memory focus: FS-004 and FS-005 move toward consequence; no final Great Design reveal.
 - exit checkpoint: The prophecy fails for the first time.
@@ -453,7 +453,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 241-270 (provisional);
 - core promise: Transform genre jokes into evidence of forced outcomes and narrative pressure.
 - identity boundary: I remember who I was, but I have changed;
-- fourth-wall boundary: Narrative Sensitivity -> Narrative Perception;
+- fourth-wall boundary: Full from the opening;
 - power boundary: Perception exposes him to danger; understanding does not equal control.
 - story-memory focus: MY-006/007 and FS-006 approach the Great Design boundary.
 - exit checkpoint: He finds evidence that history is being pushed toward predetermined outcomes.
@@ -507,7 +507,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 - chapter range: 271-300 (provisional);
 - core promise: Reach the 300-chapter checkpoint where the Great Design directly reacts without ending the saga.
 - identity boundary: I know who I am begins as a choice;
-- fourth-wall boundary: Narrative Perception -> True Anomaly threshold;
+- fourth-wall boundary: Full from the opening;
 - power boundary: A major anomaly checkpoint; final powers, final identity, and final conflict remain open.
 - story-memory focus: FS-006 and FS-007 create forward pressure; MY-008 remains unresolved or only partially narrowed.
 - exit checkpoint: Chapter 300 records the first direct reaction from beyond ordinary reality.

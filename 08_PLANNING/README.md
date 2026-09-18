@@ -18,6 +18,7 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 - [Volume map](VOLUME_MAP.md)
 - [Chapter register](CHAPTER_REGISTER.md)
 - [Provisional 300-chapter roadmap](300_CHAPTER_ROADMAP.md)
+- [Chapter 001 entry state](CHAPTER_001_ENTRY_STATE.md)
 - [Arc 1: The Man Who Thinks He's Deadpool](ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md)
 - [Arc 2: The Glitch vs. Fantasy](ARC_02_THE_GLITCH_VS_FANTASY.md)
 - [Arc 3: The Demon King's Confusion](ARC_03_THE_DEMON_KINGS_CONFUSION.md)
@@ -27,10 +28,10 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 ## Current setup status
 
 - Project status: structural pre-production.
-- Prologue and synopsis: `UNKNOWN / NOT ESTABLISHED` and not created.
+- Prologue and synopsis: `UNKNOWN / NOT ESTABLISHED` and not created; when authorized, both must present Red Jackal's real fourth-wall/narrative-editing authority rather than foreshadowing a later unlock.
 - Volume count and volume titles: `UNKNOWN / NOT ESTABLISHED`.
 - Planning horizon: 10 provisional volumes x 30 provisional chapter slots;
-- Protagonist planning identity: Red Jackal; his unrestricted imagination anomaly exists from the opening and remains separate from gradual fourth-wall awareness.
+- Protagonist planning identity: Red Jackal; his unrestricted imagination and full fourth-wall/narrative-editing authority exist from the opening and do not progress.
 - Final publication count and chapter titles: `UNKNOWN / NOT ESTABLISHED` until chapter-level approval.
 - Numbered manuscript prose: not authorized by this setup.
 

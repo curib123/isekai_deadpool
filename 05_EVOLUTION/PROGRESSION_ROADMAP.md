@@ -38,22 +38,24 @@ No identity stage is complete because the roadmap names it. The stage must chang
 
 ### Fourth-wall boundary
 
-The external progression remains Imitation -> Genre Awareness -> Coincidence -> Suspicion -> Narrative Sensitivity -> Narrative Perception -> True Anomaly. This progression is slow and must not be accelerated to satisfy a volume ending.
+There is no fourth-wall progression. Red Jackal has literal fourth-wall awareness and narrative-editing authority from the first page, including the origin-world death scene, synopsis, prologue, Chapter 1, and all later chapters. He can rewrite dialogue, scenes, narration, event order, or storyline without an unlock, cost, blocker, or limit.
+
+The roadmap may track how he chooses to use that authority and how other characters react, but it must never treat awareness as locked, acquired, or upgraded. Identity, judgment, relationships, and emotional maturity may progress; the authority does not.
 
 ## Ten-volume progression horizon
 
 | Volume | External growth boundary | Identity boundary | Fourth-wall boundary | Permanent power boundary |
 | --- | --- | --- | --- | --- |
-| 01 | Survival, observation, basic combat learning; imagination anomaly exists from the opening | I am Deadpool | Imitation | No normal System progression; regeneration limits begin to appear |
-| 02 | Guild survival, practical tactics, first earned reputation | Obviously I'm Deadpool | Imitation to early Genre Awareness | No level/class; mastery is demonstrated through choices |
-| 03 | Quest experience, combat creativity, relationship skills | Inconsistencies become harder to dismiss | Genre Awareness | No hidden System route; counters remain meaningful |
-| 04 | Dangerous adaptation, non-System competence, faction awareness | What if I'm not? | Genre Awareness to Coincidence | Any new technique requires source, cost, and evidence |
-| 05 | Survival against organized Demon King pressure | Denial and fear | Coincidence | Regeneration counters become strategically important |
-| 06 | Escape, resistance, memory-fragment interpretation | I wasn't Deadpool | Coincidence to Suspicion | No memory reveal grants a combat upgrade automatically |
-| 07 | Divine investigation literacy, prophecy interpretation | Then who was I? | Suspicion | Fate interaction is not immunity |
-| 08 | Interference with inevitable events and consequence management | Memory recovery changes present choices | Suspicion to Narrative Sensitivity | No complete Great Design explanation yet |
-| 09 | Recognition of forced outcomes and causal pressure | I remember who I was / but I have changed | Narrative Sensitivity to Narrative Perception | Future perception creates cost and exposure |
-| 10 | Ability to act while the Great Design responds; deliberate use of an already-unrestricted anomaly | I know who I am begins as a choice, not a final endpoint | Narrative Perception toward True Anomaly | Chapter 300 is a checkpoint; final non-anomaly developments and ending remain open |
+| 01 | Survival, observation, basic combat learning; imagination and fourth-wall authority exist from the opening | I am Deadpool | Full from opening | No normal System progression; regeneration limits begin to appear |
+| 02 | Guild survival, practical tactics, first earned reputation | Obviously I'm Deadpool | Full from opening | No level/class; mastery is demonstrated through choices |
+| 03 | Quest experience, combat creativity, relationship skills | Inconsistencies become harder to dismiss | Full from opening | No hidden System route; regeneration counters remain meaningful only for regeneration |
+| 04 | Dangerous adaptation, non-System competence, faction awareness | What if I'm not? | Full from opening | Any new non-anomaly technique requires source, cost, and evidence |
+| 05 | Survival against organized Demon King pressure | Denial and fear | Full from opening | Regeneration counters become strategically important; they do not limit narrative authority |
+| 06 | Escape, resistance, memory-fragment interpretation | I wasn't Deadpool | Full from opening | No memory reveal grants a combat upgrade automatically |
+| 07 | Divine investigation literacy, prophecy interpretation | Then who was I? | Full from opening | Fate interaction is not immunity and cannot suppress his edits |
+| 08 | Interference with inevitable events and consequence management | Memory recovery changes present choices | Full from opening | No complete Great Design explanation yet |
+| 09 | Recognition of forced outcomes and causal pressure | I remember who I was / but I have changed | Full from opening | Other characters may react to edits; no power limit is introduced |
+| 10 | Ability to act while the Great Design responds; deliberate use of an already-unrestricted anomaly | I know who I am begins as a choice, not a final endpoint | Full from opening | Chapter 300 is a checkpoint; final non-anomaly developments and ending remain open |
 
 ## Progression gate for every milestone
 

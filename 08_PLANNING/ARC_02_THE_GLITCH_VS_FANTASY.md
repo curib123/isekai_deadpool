@@ -25,7 +25,7 @@ This boundary file records only the Arc 2 material established by the master pla
 - existence state: unregistered System anomaly;
 - defining abilities: abnormal regeneration and the already-active unrestricted imagination anomaly;
 - System progression: no level, class, or normal progression sheet;
-- fourth-wall state: Imitation or early Genre Awareness only, according to the approved prior entry state;
+- fourth-wall state: full awareness and narrative-editing authority carried from the opening;
 - companions: UNKNOWN / NOT ESTABLISHED;
 - active objective: accept and complete simple quests; exact quest list UNKNOWN / NOT ESTABLISHED.
 
@@ -54,7 +54,7 @@ Exact quest content, companions, faction names, locations, injuries, and chapter
 - allowed growth: non-System mastery, combat creativity, tactical thinking, regeneration control, and deliberate or reluctant use of an already-unrestricted imagination anomaly;
 - permanent Evolution: UNKNOWN / NOT ESTABLISHED; do not add one without a parent authority and earned prerequisites;
 - System status: remains UNDEFINED and cannot become a normal progression sheet;
-- fourth-wall stage: Genre Awareness may begin, but real supernatural narrative power is not authorized;
+- fourth-wall stage: no stage progression; full supernatural narrative authority is already authorized;
 - future counters: restraint, sealing, imprisonment, and other non-ordinary attacks remain valid regeneration and world-stakes pressures, but they cannot counter the underlying imagination anomaly.
 
 ## Story memory

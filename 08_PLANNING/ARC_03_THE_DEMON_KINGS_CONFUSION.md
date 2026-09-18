@@ -24,7 +24,7 @@ This boundary file records the Arc 3 escalation and identity pressure without in
 - existence state: unregistered and difficult for the System to classify;
 - defining abilities: abnormal regeneration and an unrestricted imagination anomaly that the Demon King's forces cannot classify through the System;
 - System status: UNDEFINED, with no normal level or class;
-- fourth-wall state: slow progression only; exact stage at entry UNKNOWN / NOT ESTABLISHED;
+- fourth-wall state: full awareness and narrative-editing authority; exact applications remain scene-specific;
 - demon forces: aware of rumors about an immortal human; specific forces and command structure UNKNOWN / NOT ESTABLISHED;
 - relationships and resources: UNKNOWN / NOT ESTABLISHED.
 
@@ -55,7 +55,7 @@ The named demon general, exact capture method, escape method, recovered pre-rein
 - allowed growth: survival strategy, combat adaptation, psychological resilience, understanding of enemy counters, and responsibility for what his imagination makes possible;
 - regeneration: remains powerful but not an automatic solution; this does not limit the separate imagination anomaly;
 - System progression: no normal levels, classes, or hidden evolution;
-- fourth-wall stage: no genuine fourth-wall power; genre awareness or coincidence may be present only if earned by the preceding arc;
+- fourth-wall stage: no progression stage; full fourth-wall power remains available while identity and judgment develop;
 - memory: recovery is a mystery movement, not a power upgrade.
 
 ## Story memory

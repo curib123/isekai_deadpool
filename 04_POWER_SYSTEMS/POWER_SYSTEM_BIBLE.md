@@ -22,6 +22,26 @@ The following terms are locked:
 
 Do not replace `UNDEFINED` with `UNKNOWN` as the protagonist's primary System status. Unknown means the answer has not been found; undefined means the System never created a valid value for him.
 
+## Fixed recurring status output
+
+Whenever Red Jackal's full status is displayed, the values remain:
+
+**Name:** UNDEFINED<br>
+**Race:** UNDEFINED<br>
+**Class:** UNDEFINED<br>
+**Level:** UNDEFINED<br>
+**HP:** UNDEFINED<br>
+**MP:** UNDEFINED<br>
+**Attributes:** UNDEFINED<br>
+**Skills:** UNDEFINED<br>
+**Progression:** UNAVAILABLE<br>
+**World Registry:** NO RECORD<br>
+**Soul Registry:** NO RECORD<br>
+**System Recognition:** FAILED<br>
+**Classification:** ANOMALY
+
+This display is not a temporary scan, a hidden progression screen, or a status that improves after victory. It is the recurring result of the world's failed attempt to define him.
+
 ## Protagonist System restrictions
 
 - he does not level;
@@ -51,7 +71,7 @@ This ability has no mechanical blocker:
 
 The world may react socially, politically, emotionally, or historically to what he creates, but those reactions are consequences of events rather than counters that can prevent the imagined effect. Red Jackal's non-use of the ability must come from character choice, ignorance of what he wants, distraction, emotional conflict, humor, mercy, curiosity, or a decision to let events unfold. It must never be explained as inability, hidden cost, cooldown, suppression, or an undiscovered counter.
 
-This anomaly remains separate from the slow fourth-wall progression. Red Jackal can alter reality without understanding Fate or the Great Design. References to Deadpool, The Mask, comics, or films shape his voice and imagination, but do not make him a copied character or prove literal audience access.
+Red Jackal also has full fourth-wall and narrative-editing authority from the opening. He can address the reader and rewrite dialogue, narration, scenes, or storyline without an unlock sequence. This authority is related to his foreign-code existence but remains a distinct expression from ordinary reality creation. References to Deadpool, The Mask, comics, or films shape his voice and imagination, but do not make him a copied character.
 
 ## Regeneration
 
@@ -100,19 +120,13 @@ Rules:
 - the Great Design's origin, limits, maintenance, and complete architecture remain `UNKNOWN / NOT ESTABLISHED`;
 - a perceived pattern is not automatically future sight.
 
-## Fourth-wall progression
+## Fourth-wall authority
 
-The permitted progression is:
+Fourth-wall awareness is real from the first page. It is not imitation, genre awareness, coincidence, narrative sensitivity, narrative perception, or a later True Anomaly stage.
 
-1. `Imitation` - he copies remembered Deadpool behavior; nothing supernatural is occurring;
-2. `Genre Awareness` - he recognizes familiar story patterns;
-3. `Coincidence` - predictions become uncomfortable but remain explainable;
-4. `Suspicion` - outcomes feel forced or protected;
-5. `Narrative Sensitivity` - he senses pressure on events;
-6. `Narrative Perception` - he witnesses contradictions, repetitions, or causal abnormalities;
-7. `True Anomaly` - his existence directly interacts with the Great Design.
+From the origin-world opening through the synopsis, prologue, Chapter 1, and all later chapters, Red Jackal may speak to the reader and rewrite dialogue, narration, scene direction, event order, or storyline. No power-system rule can prevent an edit he chooses to make. He may choose not to edit because of play, curiosity, emotion, mercy, distraction, or a plan, but non-use is never mechanical inability.
 
-No later stage is current merely because it is listed here. Each stage requires approved scenes, evidence, costs, and consequences.
+The prose must make meaningful edits clear to the reader through close narration. Fate and the Great Design may become aware of him later, but that later awareness is not the source of his fourth-wall authority.
 
 ## Ability acquisition contract
 

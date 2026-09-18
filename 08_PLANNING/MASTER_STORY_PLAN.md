@@ -136,7 +136,6 @@ His imagination behaves like a foreign-code intrusion into the world's reality r
 Whenever the System attempts to inspect him:
 
 > **Name:** UNDEFINED
-> **Self-Identified Name:** UNDEFINED
 > **Race:** UNDEFINED
 > **Class:** UNDEFINED
 > **Level:** UNDEFINED
@@ -144,12 +143,11 @@ Whenever the System attempts to inspect him:
 > **MP:** UNDEFINED
 > **Attributes:** UNDEFINED
 > **Skills:** UNDEFINED
-> **Blessings:** UNDEFINED
-> **Curses:** UNDEFINED
-> **Titles:** UNDEFINED
 > **Progression:** UNAVAILABLE
+> **World Registry:** NO RECORD
+> **Soul Registry:** NO RECORD
 > **System Recognition:** FAILED
-> **Status:** UNCHANGED
+> **Classification:** ANOMALY
 
 His status does not say Level 1.
 
@@ -403,7 +401,7 @@ Red Jackal may imagine weapons, bodies, environments, creatures, impossible move
 
 Any moment in which he does not use this ability must come from his choice, ignorance of what he wants, distraction, emotional conflict, humor, mercy, curiosity, or a decision to let events unfold. It must never be explained as a hidden cost, blocker, counter, cooldown, or inability.
 
-The imagination anomaly is separate from fourth-wall awareness. Red Jackal can alter reality without knowing that Fate or the Great Design exists. His Deadpool and The Mask references influence his style, improvisation, and visual imagination, but he remains an original person and does not become either copyrighted character.
+The imagination anomaly and fourth-wall authority are distinct expressions of the same foreign-code existence. Red Jackal can alter reality and address the reader without understanding Fate or the Great Design. His Deadpool and The Mask references influence his style, improvisation, and visual imagination, but he remains an original person and does not become either copyrighted character.
 
 ---
 
@@ -569,13 +567,27 @@ The goddess realizes immediately that something is very wrong.
 
 # The Fourth-Wall Mechanic
 
-The fourth-wall concept progresses extremely slowly.
+The fourth-wall is real from the first page. It is not imitation, a joke that becomes true later, or a power that unlocks across the volumes.
 
-It does not begin as a supernatural ability.
+## Full fourth-wall authority from the opening
+
+Red Jackal knows that he is inside a story and can address the reader directly in the synopsis, prologue, Chapter 1, and every later chapter. He can edit his dialogue, revise a conversation, change a scene's direction, rearrange an event, rewrite a piece of narration, or alter the storyline to fit what he wants.
+
+This authority has no cooldown, cost, range, understanding requirement, counter, suppression method, exhaustion rule, or known limit. The System, magic, Fate, the Great Design, imprisonment, defeat, injury, or another character's plan cannot prevent an edit that Red Jackal chooses to make.
+
+He may still choose not to edit a scene because he is curious, amused, distracted, merciful, emotionally invested, or simply playing along. A defeat is therefore never proof that he lacks power. It may be a plan, a performance, a game, or a choice to let the scene continue.
+
+The reader must understand each meaningful edit through close narration: a rewritten line, a corrected action, a scene that snaps into a new direction, or Red Jackal's direct acknowledgement of the change. Do not hide the ability behind ambiguous coincidence and reveal it as a late unlock.
+
+The staged fourth-wall notes below are superseded historical planning. They are not current progression rules.
 
 ---
 
-## Stage 1 — Imitation
+## Superseded historical notes (not current canon)
+
+The following staged model is retained only as an archive of the earlier rejected direction.
+
+### Stage 1 — Imitation
 
 He remembers Deadpool talking to readers.
 
@@ -1096,7 +1108,7 @@ He calls it:
 
 For years he joked that reality behaved like a story.
 
-He pretended he could see the fourth wall because Deadpool supposedly could.
+He understood the fourth wall before reincarnation and often pretended that his awareness was only a joke because Deadpool supposedly could do the same.
 
 He spent years questioning coincidences nobody else questioned.
 
@@ -1278,6 +1290,22 @@ His core status remains:
 
 The entire point is that he exists outside the System's ability to define, classify, or progress him.
 
+His recurring status is:
+
+**Name:** UNDEFINED<br>
+**Race:** UNDEFINED<br>
+**Class:** UNDEFINED<br>
+**Level:** UNDEFINED<br>
+**HP:** UNDEFINED<br>
+**MP:** UNDEFINED<br>
+**Attributes:** UNDEFINED<br>
+**Skills:** UNDEFINED<br>
+**Progression:** UNAVAILABLE<br>
+**World Registry:** NO RECORD<br>
+**Soul Registry:** NO RECORD<br>
+**System Recognition:** FAILED<br>
+**Classification:** ANOMALY
+
 ---
 
 # Locked System Terminology
@@ -1328,9 +1356,9 @@ Red Jackal's unrestricted imagination is not a progression milestone. It exists 
 
 # Major Canon Rule — Fourth Wall
 
-He does not start with real fourth-wall powers.
+Red Jackal starts with real fourth-wall and narrative-editing authority.
 
-The progression must remain:
+The following sequence is superseded historical planning, not a current progression rule:
 
 **Imitation**
 
@@ -1358,7 +1386,9 @@ The progression must remain:
 
 **True Anomaly**
 
-This progression must be slow.
+There is no fourth-wall progression, unlock sequence, hidden stage, or later reveal that he always had it. His ability is available in the origin-world opening, the death scene, the reincarnation, the medieval fantasy world, the synopsis, the prologue, Chapter 1, and all later chapters.
+
+Character identity, emotional maturity, relationships, judgment, and willingness to use the ability may develop. The ability itself does not grow, level up, awaken, or become limited.
 
 ---
 
@@ -1480,7 +1510,7 @@ Someone whose future was never written.
 
 The story begins as:
 
-**A ridiculous isekai about an amnesiac comic-book fanatic who thinks he is Deadpool.**
+**A ridiculous isekai about an amnesiac comic-book fanatic who thinks he is Deadpool and already knows he can talk to the reader and rewrite the scene.**
 
 Then it becomes:
 

@@ -37,11 +37,11 @@ These are planned continuity seeds derived from the master plan. `PLANNED` means
 ## FS-003 - Genre-pattern predictions
 
 - seed: a pattern-based prediction becomes uncomfortably accurate;
-- source authority: master story plan, Fourth-Wall Mechanic stages 2 and 3;
+- source authority: master story plan, full fourth-wall authority and genre-pattern voice;
 - status: `PLANNED`;
-- first-use boundary: after imitation has been established and a genre pattern is visible;
-- later movement: coincidence becomes suspicion without immediate future sight;
-- payoff condition: a later event forces characters to question whether pattern recognition is enough;
+- first-use boundary: opening chapter may establish a genre-shaped comment or edit;
+- later movement: Red Jackal chooses whether to let a familiar pattern play out or rewrite it;
+- payoff condition: a later event forces characters to deal with the consequences of a deliberate narrative choice;
 - consequence requirement: trust, fear, or decision-making changes;
 - exact chapter references: none yet.
 
@@ -51,7 +51,7 @@ These are planned continuity seeds derived from the master plan. `PLANNED` means
 - source authority: master story plan, Arc 4 and Arc 5;
 - status: `PLANNED`;
 - first-use boundary: Arc 4 suspicion or later;
-- later movement: pressure becomes narrative sensitivity and eventually evidence of the Great Design;
+- later movement: pressure becomes evidence of the Great Design reacting to an authority Red Jackal already possesses;
 - payoff condition: the protagonist identifies a forced outcome without becoming immune to Fate;
 - consequence requirement: interference creates a cost or new instability;
 - exact chapter references: none yet.

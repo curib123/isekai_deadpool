@@ -83,15 +83,15 @@ These records organize unresolved questions already listed in the master story p
 - next review boundary: Arc 4 prophecy failure and Arc 5 reaction;
 - exact chapter references: none yet.
 
-## MY-007 - Narrative perception
+## MY-007 - Narrative authority and Great Design response
 
-- question: Why can he eventually perceive pressure in events that others call Fate?
+- question: How does Red Jackal's full fourth-wall and narrative-editing authority interact with the world's Fate and Great Design?
 - source authority: master story plan, Fourth-Wall Mechanic;
 - status: `OPEN`;
-- reader knowledge: the progression must move slowly from imitation to true anomaly;
-- character knowledge boundary: he begins with jokes and genre awareness, not supernatural access;
-- permitted movement: coincidence, suspicion, narrative sensitivity, narrative perception;
-- forbidden early reveal: true fourth-wall power in the opening or proof that every joke was supernatural;
+- reader knowledge: the authority is real from the opening; its origin and the Great Design's complete response remain unresolved;
+- character knowledge boundary: Red Jackal knows he can address the reader and edit the narrative, but may not know why the world reacts as it does;
+- permitted movement: clearer edits, consequences, opposition, and evidence about the Great Design;
+- forbidden early reveal: final explanation of the foreign-code origin or complete Great Design architecture;
 - next review boundary: Arc 5;
 - exact chapter references: none yet.
 

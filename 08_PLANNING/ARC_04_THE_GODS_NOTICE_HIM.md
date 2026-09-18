@@ -25,7 +25,7 @@ This boundary file records the divine and prophetic escalation without defining 
 - defining abilities: abnormal regeneration with established counters and an unrestricted imagination anomaly outside divine and System classification;
 - System status: UNDEFINED;
 - divine awareness: gods begin investigating him; identities, factions, and motives UNKNOWN / NOT ESTABLISHED;
-- fourth-wall state: imitation, genre awareness, coincidence, and suspicion may have developed only through approved prior events.
+- fourth-wall state: full awareness and narrative-editing authority from the opening; divine investigation concerns his consequences and origin, not an unlock.
 
 ## Protected rules
 
@@ -33,7 +33,7 @@ This boundary file records the divine and prophetic escalation without defining 
 - Prophecy may be incomplete, contradictory, or unstable around him.
 - Pattern recognition is not automatic future sight.
 - Fate, prophecy, divination, and divine power cannot suppress or counter Red Jackal's imagination anomaly; they may react to its consequences or fail to describe it.
-- The fourth-wall progression remains slow: Imitation -> Genre Awareness -> Coincidence -> Suspicion -> Narrative Sensitivity -> Narrative Perception -> True Anomaly.
+- Fourth-wall awareness is not a slow progression. Red Jackal may directly address the audience or edit the narrative from the opening.
 - The Great Design is not yet a fully exposed final conflict at the start of this arc.
 
 ## Known story movement
@@ -55,7 +55,7 @@ The gods, artifact, prophecy, event, political consequences, and exact predictio
 - allowed growth: understanding of divine rules, prophecy limitations, the difference between pattern recognition and supernatural perception, and the consequences of using unlimited imagination in a world governed by Fate;
 - System status: remains UNDEFINED / NO RECORD according to the operation;
 - Fate relationship: difficult for Fate to account for, not immune to causality;
-- fourth-wall stage: suspicion or early narrative sensitivity only if earned on-page;
+- fourth-wall stage: full from the opening; the Great Design's reaction is a later conflict escalation;
 - forbidden reveal: complete Great Design mechanics or final antagonist reaction before Arc 5; the anomaly's origin remains unresolved.
 
 ## Story memory
@@ -86,5 +86,5 @@ The event, intervention, prophecy language, witnesses, cost, and consequences ar
 - divine and political consequences: UNKNOWN / NOT ESTABLISHED;
 - prophecy status: one declared inevitability has failed;
 - System status: still unable to define him;
-- fourth-wall state: exact stage UNKNOWN / NOT ESTABLISHED;
+- fourth-wall state: full from the opening; exact edits and consequences UNKNOWN / NOT ESTABLISHED;
 - next progression boundary: Arc 5 may reveal the Great Design and allow reality to react to his perception.

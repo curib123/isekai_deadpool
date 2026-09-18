@@ -15,7 +15,7 @@ This boundary file records the master-plan transition from comedy and suspicion 
 - transform the comedy into the central conflict;
 - reveal the Great Design;
 - establish the long-term enemy structure;
-- move the protagonist from imitation toward true anomaly.
+- move the protagonist from playful fourth-wall authority toward a direct conflict with the Great Design, without granting a new ability.
 
 ## Entry state
 
@@ -24,14 +24,14 @@ This boundary file records the master-plan transition from comedy and suspicion 
 - existence state: difficult for System, divine records, prophecy, and Fate to account for;
 - defining abilities: abnormal regeneration, still limited by non-ordinary counters, and an unrestricted imagination anomaly that has no mechanical counter;
 - System status: UNDEFINED, NO RECORD, FAILED, or UNAVAILABLE according to operation;
-- fourth-wall state: narrative sensitivity or narrative perception may be present only if earned by prior approved prose;
+- fourth-wall state: full awareness and narrative-editing authority carried from the opening;
 - Great Design awareness: incomplete and not fully exposed at entry.
 
 ## Protected rules
 
 - The Great Design is not a literal author writing a novel; it is the metaphysical mechanism that pushes history toward predetermined outcomes.
 - He is not immune to Fate or causality. He is difficult for Fate to account for because no destiny was created for him.
-- True fourth-wall awareness must be earned through the locked slow progression.
+- True fourth-wall awareness is already present; this arc may reveal the Great Design's awareness of him, not grant him access.
 - His discovery does not retroactively prove that every earlier joke was supernatural.
 - The Demon King and gods are participants in a larger structure, not automatically the ultimate enemy.
 - The protagonist's final identity is chosen through development; neither his original identity nor Deadpool fully defines him.
@@ -51,11 +51,11 @@ Exact evidence, mechanism, person or force that reacts, and consequences are UNK
 
 ## Power and fourth-wall boundary
 
-- allowed growth: narrative sensitivity, narrative perception, and eventual True Anomaly only as earned stages, while the imagination anomaly remains available from the opening;
+- allowed growth: strategic, emotional, and ethical use of existing narrative authority while the Great Design becomes aware of him;
 - System progression: no normal level, class, title, hidden evolution, or ultimate System designation;
 - Fate relationship: irregular registration, not immunity;
 - regeneration: remains a survival tool with meaningful counters;
-- forbidden shortcut: immediate supernatural fourth-wall power at the story opening; Red Jackal's immediate reality-expression is not fourth-wall power.
+- forbidden shortcut: treating the Great Design's reaction as the source of Red Jackal's fourth-wall power; his authority is immediate and unrestricted.
 
 ## Story memory
 
@@ -85,6 +85,6 @@ The reaction, cost, immediate consequence, and next arc direction are UNKNOWN / 
 - Great Design awareness: established as a direct reaction only after approved prose;
 - protagonist identity: still developing toward a self-chosen identity;
 - System status: remains outside normal definition;
-- fourth-wall stage: exact stage and acquisition state UNKNOWN / NOT ESTABLISHED;
+- fourth-wall state: full from the opening; exact narrative edits and consequences remain UNKNOWN / NOT ESTABLISHED until prose.
 - long-term conflict: Great Design established as the larger opposing structure;
 - next progression boundary: future arcs and volume structure require author-approved planning authority.

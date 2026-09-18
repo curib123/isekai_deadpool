@@ -25,12 +25,22 @@ Required checks:
 - repeated information is removed or changed into a new consequence;
 - dialogue answers the speaker's goal, not only the author's need to explain lore.
 
+## Light-novel pacing and dialogue
+
+- open with an immediate situation, voice, or problem; do not spend a chapter warming up before something changes;
+- keep scenes moving through action, reaction, conversation, discovery, or a fresh decision;
+- use frequent dialogue when characters are together, but give each line a purpose, personality, or consequence;
+- let conversations carry comedy, world information, conflict, and relationship movement at the same time;
+- avoid long explanation blocks when a short exchange, interruption, misunderstanding, or visible example can carry the information;
+- vary the joke timing: some jokes should be expected from Red Jackal's voice, while others should arrive because the situation takes an absurd turn;
+- close chapters on a changed situation or a strong forward pull, not on an empty tease.
+
 ## Point of view
 
 - use close third person unless an approved plan authorizes another viewpoint;
 - keep knowledge, sensory access, and interpretation inside the viewpoint boundary;
 - distinguish what the character knows, suspects, remembers, assumes, and the reader knows;
-- do not use the protagonist's Deadpool imitation or Red Jackal's unrestricted imagination anomaly to grant supernatural narrator access early;
+- do not treat Red Jackal's fourth-wall authority as a late reveal; it is real and available from the first page;
 - do not reveal a future power, identity truth, or Great Design rule through narration before its approved reveal boundary.
 
 ## Dialogue
@@ -56,7 +66,7 @@ Required checks:
 - vary the pressure: a joke may interrupt danger, fail, hurt someone, or be followed by silence;
 - keep death, grief, betrayal, disability, trauma, and irreversible loss consequential;
 - do not use a punchline to undo an injury, restore trust, erase fear, or cancel a decision;
-- treat the protagonist's audience-facing remarks as imitation or pattern recognition until the fourth-wall progression earns a real stage.
+- treat direct audience address and deliberate narrative edits as real from the opening. A joke does not need to be supernatural, but the ability itself is never only imitation or pattern recognition.
 
 ## Red Jackal voice and references
 
@@ -67,13 +77,11 @@ Required checks:
 - his imagination may produce absurd visual or physical results, but those results still alter bodies, property, trust, institutions, and history;
 - a reference or punchline is never proof of fourth-wall awareness by itself.
 
-## Fourth-wall progression guard
+## Fourth-wall authority guard
 
-The permitted order is:
+Red Jackal has literal fourth-wall awareness from the origin-world opening. The synopsis, prologue, Chapter 1, and later chapters may show direct audience address, rewritten dialogue, corrected narration, altered scene direction, or storyline edits. These are not unlocks, stages, or progression rewards.
 
-Imitation -> Genre Awareness -> Coincidence -> Suspicion -> Narrative Sensitivity -> Narrative Perception -> True Anomaly
-
-Early chapters may contain jokes, trope comments, imaginary audience remarks, and genre pattern recognition. They may not contain real narrative perception, literal audience contact, or proof that the Great Design is reacting to him before the approved roadmap boundary.
+Make meaningful edits clear to the reader through close narration. Do not conceal the ability behind ambiguous coincidence or delay its truth until Arc 5. The Great Design's later reaction is an escalation of opposition, not the source of his authority.
 
 ## Chapter length and structure
 
@@ -83,6 +91,7 @@ Early chapters may contain jokes, trope comments, imaginary audience remarks, an
 - planning notes, synopsis, context receipts, and QA records are not chapter prose;
 - use a varied movement such as hook -> development -> conflict/discovery -> character consequence -> new pressure -> ending change;
 - finish with a changed situation, decision, discovery, cost, or question rather than a repeated generic cliffhanger.
+- Chapter 1 must begin in the original world with the protagonist as a Deadpool fan facing his death, then carry the reader into the isekai setup without a slow opening detour.
 
 ## Revision passes
 

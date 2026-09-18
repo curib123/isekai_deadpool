@@ -26,7 +26,7 @@ This boundary file records only the Arc 1 material established by the master pla
 - protagonist existence state: damaged and unregistered by the System; exact soul state UNKNOWN / NOT ESTABLISHED;
 - defining abilities: abnormal regeneration and an unrestricted imagination anomaly caused by his foreign-code existence;
 - System level/class/title: UNDEFINED;
-- fourth-wall state: Imitation only; no real fourth-wall power;
+- fourth-wall state: full awareness and narrative-editing authority from the opening;
 - companions and relationships: UNKNOWN / NOT ESTABLISHED;
 - active objective: reach and survive the mortal world; exact objective after arrival UNKNOWN / NOT ESTABLISHED.
 
@@ -36,7 +36,7 @@ This boundary file records only the Arc 1 material established by the master pla
 - The System does not give him a normal level, class, title, or progression sheet.
 - The official System terminology remains UNDEFINED, NO RECORD, FAILED, UNAVAILABLE, and ANOMALY.
 - Regeneration prevents ordinary death but does not remove pain, exhaustion, fear, restraint, sealing, soul damage, curses, or other counters.
-- His jokes and audience-facing comments are imitation, not proof of supernatural fourth-wall awareness.
+- His audience-facing comments and narrative edits are real from the opening; they are not a later unlock.
 - Red Jackal's imagination anomaly is already active, can make anything he imagines happen, and has no cooldown, cost, focus requirement, understanding requirement, range restriction, counter, suppression method, exhaustion rule, or known upper limit.
 - Any choice not to use the anomaly must be character-driven; it cannot be explained as inability.
 
@@ -58,8 +58,8 @@ Exact goddess identity, guild name, mortal settlement, examiner identities, and 
 - allowed growth: survival, observation, basic combat experience, practical adaptation, and learning how his already-unrestricted anomaly affects his choices;
 - System progression: no level or normal class progression;
 - regeneration: present, powerful, painful, and limited by non-ordinary counters;
-- fourth-wall stage: Imitation;
-- forbidden early reveal: genuine narrative perception or a supernatural ability to address an actual audience; the imagination anomaly is not fourth-wall awareness.
+- fourth-wall stage: Full from the opening;
+- forbidden early reveal: none for fourth-wall awareness; the reader must understand that Red Jackal can address the actual audience and alter the scene from the opening.
 
 ## Story memory
 

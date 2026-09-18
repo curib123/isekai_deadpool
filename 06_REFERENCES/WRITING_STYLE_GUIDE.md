@@ -9,6 +9,8 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - Keep spoken dialogue in quotation marks and preserve each character's knowledge and voice.
 - Vary sentence and paragraph length naturally.
 - Use one-line fragments and cinematic formatting only for earned emphasis.
+- Favor light-novel momentum: begin with a live problem, keep scenes active, and let conversation create movement instead of pausing the story for lectures.
+- Use simple English with clear emotional cause and effect. Short sentences may carry danger or comedy, while longer sentences may carry close thought or disbelief.
 
 ## Natural-author prose rules
 
@@ -30,7 +32,7 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - After a major trauma or irreversible consequence, allow a quiet beat, a changed behavior, or a practical problem to remain in the scene.
 - Other characters do not have to accept the protagonist's humor. Confusion, anger, concern, embarrassment, and silence are valid responses.
 - A joke may relieve pressure without declaring the event harmless.
-- Comedy cannot prove real fourth-wall power. Early audience-facing remarks remain imitation, genre awareness, or coincidence until the master-plan progression earns more.
+- Comedy does not need to prove fourth-wall power, because Red Jackal already has literal fourth-wall awareness from the opening. Use direct address and narrative edits clearly when the scene calls for them; do not delay or disguise the ability as a later unlock.
 - Do not make the setting consequence-free for the sake of a punchline. People, institutions, relationships, and communities must remember what happened.
 
 ## Red Jackal's anomaly and reference voice
@@ -40,6 +42,7 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - Tension comes from what Red Jackal chooses, refuses, misunderstands, overlooks, values, or causes—not from a power-system rule that prevents his imagination from working.
 - Deadpool, The Mask, comic, and movie references may shape his voice as brief transformed allusions or original jokes. Do not copy dialogue, long quotations, exact scenes, or copyrighted character identity.
 - Other characters can misunderstand a reference, and Red Jackal can be wrong about what his memories mean. Neither reference humor nor impossible imagination automatically establishes fourth-wall awareness.
+- The reader should always understand when Red Jackal is speaking to the audience or changing the scene. Close narration can show a line being rewritten, an action being corrected, or the storyline taking the shape he chooses.
 
 ## Tone
 
@@ -47,7 +50,7 @@ Comedy comes from the protagonist's coping style, bad assumptions, timing, and s
 
 ## Protagonist rules
 
-His belief that he is Deadpool is genuine at the beginning, not a performance. His jokes and genre observations initially have no supernatural authority. The story must show the gradual progression from imitation to genre awareness, coincidence, narrative sensitivity, narrative perception, and true fourth-wall awareness.
+His belief that he is Deadpool is genuine at the beginning, even though he is an original human fan and not Wade Wilson. His fourth-wall awareness is also genuine from the beginning. His identity, emotional maturity, relationships, and willingness to use narrative authority may develop, but the authority itself never unlocks or progresses.
 
 Do not make regeneration an automatic solution. Preserve pain, exhaustion, fear, trauma, restraint, sealing, soul damage, curses, memory interference, dimensional exile, and conceptual danger when established by the plan. These are regeneration and world-stakes considerations, not counters to Red Jackal's unrestricted imagination.
 
