@@ -48,7 +48,7 @@ Create one file for each master-plan arc under `08_PLANNING/`:
 - `ARC_02_THE_GLITCH_VS_FANTASY.md`
 - `ARC_03_THE_DEMON_KINGS_CONFUSION.md`
 - `ARC_04_THE_GODS_NOTICE_HIM.md`
-- `ARC_05_THE_FOURTH_WALL.md`
+- `ARC_05_THE_GREAT_DESIGN_NOTICES_HIM.md`
 
 Each file will use the existing arc-template fields, but only fill facts directly established by the master plan. It will include purpose, known plot boundary, arc ending gate, identity movement, System/progression boundary, fourth-wall stage, mystery obligations, and an explicit unknown chapter map. No chapter title or event will be invented.
 

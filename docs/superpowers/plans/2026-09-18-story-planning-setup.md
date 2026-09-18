@@ -93,7 +93,7 @@ Files:
 - Create: 08_PLANNING/ARC_02_THE_GLITCH_VS_FANTASY.md
 - Create: 08_PLANNING/ARC_03_THE_DEMON_KINGS_CONFUSION.md
 - Create: 08_PLANNING/ARC_04_THE_GODS_NOTICE_HIM.md
-- Create: 08_PLANNING/ARC_05_THE_FOURTH_WALL.md
+- Create: 08_PLANNING/ARC_05_THE_GREAT_DESIGN_NOTICES_HIM.md
 
 Interfaces:
 - Consumes: the master story plan, ARC_TEMPLATE.md, and the story-memory README and ledgers.
@@ -130,7 +130,7 @@ Expected: each arc file contains its corresponding master-plan boundary, preserv
 
 - [ ] Step 7: Commit the arc boundary files.
 
-    git add 08_PLANNING/ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md 08_PLANNING/ARC_02_THE_GLITCH_VS_FANTASY.md 08_PLANNING/ARC_03_THE_DEMON_KINGS_CONFUSION.md 08_PLANNING/ARC_04_THE_GODS_NOTICE_HIM.md 08_PLANNING/ARC_05_THE_FOURTH_WALL.md
+    git add 08_PLANNING/ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md 08_PLANNING/ARC_02_THE_GLITCH_VS_FANTASY.md 08_PLANNING/ARC_03_THE_DEMON_KINGS_CONFUSION.md 08_PLANNING/ARC_04_THE_GODS_NOTICE_HIM.md 08_PLANNING/ARC_05_THE_GREAT_DESIGN_NOTICES_HIM.md
     git commit -m "docs: define initial story arc boundaries"
 
 ### Task 4: Add the 1,000-word chapter planning gate
@@ -200,7 +200,7 @@ Run:
       '08_PLANNING/ARC_02_THE_GLITCH_VS_FANTASY.md',
       '08_PLANNING/ARC_03_THE_DEMON_KINGS_CONFUSION.md',
       '08_PLANNING/ARC_04_THE_GODS_NOTICE_HIM.md',
-      '08_PLANNING/ARC_05_THE_FOURTH_WALL.md'
+      '08_PLANNING/ARC_05_THE_GREAT_DESIGN_NOTICES_HIM.md'
     )
     $required | ForEach-Object { if (-not (Test-Path $_)) { throw "Missing planning file: $_" } }
 

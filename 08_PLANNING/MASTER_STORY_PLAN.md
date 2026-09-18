@@ -1022,7 +1022,7 @@ For the first time:
 
 ---
 
-# Arc 5 — The Fourth Wall
+# Arc 5 — The Great Design Notices Him
 
 ## Purpose
 

@@ -1,4 +1,4 @@
-# Arc 5 - The Fourth Wall
+# Arc 5 - The Great Design Notices Him
 
 ## Authority and status
 
@@ -87,4 +87,3 @@ The reaction, cost, immediate consequence, and next arc direction are UNKNOWN / 
 - fourth-wall stage: exact stage and acquisition state UNKNOWN / NOT ESTABLISHED;
 - long-term conflict: Great Design established as the larger opposing structure;
 - next progression boundary: future arcs and volume structure require author-approved planning authority.
-

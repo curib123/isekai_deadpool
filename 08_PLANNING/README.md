@@ -21,7 +21,7 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 - [Arc 2: The Glitch vs. Fantasy](ARC_02_THE_GLITCH_VS_FANTASY.md)
 - [Arc 3: The Demon King's Confusion](ARC_03_THE_DEMON_KINGS_CONFUSION.md)
 - [Arc 4: The Gods Notice Him](ARC_04_THE_GODS_NOTICE_HIM.md)
-- [Arc 5: The Fourth Wall](ARC_05_THE_FOURTH_WALL.md)
+- [Arc 5: The Great Design Notices Him](ARC_05_THE_GREAT_DESIGN_NOTICES_HIM.md)
 
 ## Current setup status
 

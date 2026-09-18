@@ -26,7 +26,7 @@ The master plan establishes five initial arcs, not a final volume architecture. 
 | Arc 2 | The Glitch vs. Fantasy | Combat style, companions, world expansion, non-System progression | He defeats something far beyond an unranked adventurer's expected capacity; rumors spread | `UNKNOWN / NOT ESTABLISHED` | `UNKNOWN / NOT ESTABLISHED` |
 | Arc 3 | The Demon King's Confusion | Escalation, antagonists, memory restoration, challenge to the false identity | He remembers that Deadpool was fictional in his original world; his identity collapses | `UNKNOWN / NOT ESTABLISHED` | `UNKNOWN / NOT ESTABLISHED` |
 | Arc 4 | The Gods Notice Him | Divine politics, prophecy failure, Fate mechanics | He interferes with an event declared inevitable; the prophecy fails | `UNKNOWN / NOT ESTABLISHED` | `UNKNOWN / NOT ESTABLISHED` |
-| Arc 5 | The Fourth Wall | Great Design reveal and long-term conflict | The Great Design directly reacts to his existence | `UNKNOWN / NOT ESTABLISHED` | `UNKNOWN / NOT ESTABLISHED` |
+| Arc 5 | The Great Design Notices Him | Great Design reveal and long-term conflict | The Great Design directly reacts to his existence | `UNKNOWN / NOT ESTABLISHED` | `UNKNOWN / NOT ESTABLISHED` |
 
 ## Provisional planning container
 
