@@ -9,4 +9,4 @@
 - prose authority: `06_REFERENCES/WRITING_STYLE_GUIDE.md` and `WRITING_RULES.md`;
 - decision: `GO`;
 - unresolved facts retained: summoning woman's identity, world name, reincarnation cause, anomaly origin, and Great Design architecture;
-- post-work QA: pending prose.
+- post-work QA: `10_QA/CHAPTER_006_DRAFT_QA.md` completed; draft remains uncertified pending author prose approval.
