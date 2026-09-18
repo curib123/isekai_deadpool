@@ -17,6 +17,7 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 - [Master story plan](MASTER_STORY_PLAN.md)
 - [Volume map](VOLUME_MAP.md)
 - [Chapter register](CHAPTER_REGISTER.md)
+- [Provisional 300-chapter roadmap](300_CHAPTER_ROADMAP.md)
 - [Arc 1: The Man Who Thinks He's Deadpool](ARC_01_THE_MAN_WHO_THINKS_HES_DEADPOOL.md)
 - [Arc 2: The Glitch vs. Fantasy](ARC_02_THE_GLITCH_VS_FANTASY.md)
 - [Arc 3: The Demon King's Confusion](ARC_03_THE_DEMON_KINGS_CONFUSION.md)
@@ -28,7 +29,9 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 - Project status: structural pre-production.
 - Prologue and synopsis: `UNKNOWN / NOT ESTABLISHED` and not created.
 - Volume count and volume titles: `UNKNOWN / NOT ESTABLISHED`.
-- Chapter count, chapter titles, and chapter ranges: `UNKNOWN / NOT ESTABLISHED`.
+- Planning horizon: 10 provisional volumes x 30 provisional chapter slots;
+- Protagonist planning identity: Red Jackal; his unrestricted imagination anomaly exists from the opening and remains separate from gradual fourth-wall awareness.
+- Final publication count and chapter titles: `UNKNOWN / NOT ESTABLISHED` until chapter-level approval.
 - Numbered manuscript prose: not authorized by this setup.
 
 New numbered chapter prose requires a parent book/volume authority, the applicable arc plan, and an inherited entry state. Future chapter prose must target at least 1,000 words and record its actual word count before certification.
