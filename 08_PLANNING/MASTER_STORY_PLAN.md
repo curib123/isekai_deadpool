@@ -456,12 +456,12 @@ He:
 - gives enemies stupid nicknames
 - mocks dramatic speeches
 - treats horrifying injuries casually
-- speaks to imaginary audiences
+- speaks directly to the reader
 - comments on obvious tropes
 - assumes coincidences are bad writing
 - expects villains to monologue
 - questions suspicious narrative timing
-- talks to an imaginary narrator
+- talks directly to the reader while telling the story
 
 ## 3. His New Identity
 

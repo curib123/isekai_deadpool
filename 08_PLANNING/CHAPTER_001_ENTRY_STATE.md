@@ -7,7 +7,7 @@
 - status: PROVISIONAL CHAPTER ENTRY STATE;
 - prose status: not drafted;
 - minimum prose target: 1,000 words;
-- viewpoint: close third person centered on the protagonist;
+- viewpoint: close first person told directly by Red Jackal;
 
 This file authorizes the opening condition and writing boundary for Chapter 001. It does not authorize final prose details that are not listed here.
 

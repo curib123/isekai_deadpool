@@ -38,7 +38,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 
 | Chapter | Working title | Function | Permitted boundary | Status |
 | --- | --- | --- | --- | --- |
-| Chapter 001 | Before the Isekai - The Deadpool Fan Dies | begins in the original world with Red Jackal as a Deadpool fan facing death; close narration, simple English, lively dialogue, unexpected comedy, and clear fourth-wall awareness establish the opening voice before the isekai transition | Establish origin-world death and immediate narrative authority; do not delay or conceal fourth-wall truth | PROVISIONAL |
+| Chapter 001 | Before the Isekai - The Deadpool Fan Dies | begins in the original world with Red Jackal as a Deadpool fan facing death; close first-person storytelling, simple English, lively dialogue, unexpected comedy, and clear fourth-wall awareness establish the opening voice before the isekai transition | Establish origin-world death and immediate narrative authority; do not delay or conceal fourth-wall truth | PROVISIONAL |
 | Chapter 002 | The Summoning Error - The Wrong Door | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 003 | The Summoning Error - What He Notices | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 004 | The Summoning Error - A Question with Teeth | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |

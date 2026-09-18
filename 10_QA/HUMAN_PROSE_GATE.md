@@ -11,6 +11,8 @@ Human-prose paragraph flow: PASS
 Sentence rhythm: PASS
 Emotional/physical continuity: PASS
 Character-specific dialogue: PASS
+Red Jackal first-person storyteller voice: PASS
+Permanent reader-talk voice: PASS
 Direct-thought restraint: PASS
 Natural wording: PASS
 Cinematic restraint: PASS
@@ -23,6 +25,8 @@ AI-pattern/redundancy review: PASS
 - **Sentence rhythm:** short, medium, and occasional longer sentences vary naturally rather than following a repeated template.
 - **Emotional/physical continuity:** established emotion is experienced through the character's body, attention, behavior, speech, and current sensory limits without inventing a new canonical emotional event.
 - **Character-specific dialogue:** dialogue remains conversational, voice-specific, knowledge-safe, and faithful to what the locked scene actually communicates.
+- **Red Jackal first-person storyteller voice:** the prose is told through Red Jackal's I/me perspective, not an invisible third-person narrator.
+- **Permanent reader-talk voice:** direct conversation with the reader is natural and available from Chapter 1 onward without becoming every paragraph's gimmick.
 - **Direct-thought restraint:** exact first-person italic thoughts are selective and do not merely restate narration.
 - **Natural wording:** ordinary precise language is preferred over inflated or unnecessarily formal wording.
 - **Cinematic restraint:** fragments, isolation, and heightened presentation are reserved for moments that genuinely earn them.

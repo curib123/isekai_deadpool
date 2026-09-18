@@ -1,16 +1,34 @@
-# Writing Style Guide — This Isekai Has a Bug
+# Locked Writing Style - Red Jackal Tells Us His Story
 
 This project follows the master plan's tonal and narrative intent. The guide is subordinate to approved canon and must not invent events or progression.
 
 ## Narrative surface
 
-- Use close third-person narration as the default.
-- Use selective italicized first-person direct thoughts for genuine interior access; do not turn every reaction into a thought line.
+- Use first-person narration from Chapter 1 onward: I, me, my, and we when Red Jackal includes the reader.
+- Red Jackal is personally recounting his life while scenes remain immediate. Do not write him as a distant historian calmly summarizing events.
 - Keep spoken dialogue in quotation marks and preserve each character's knowledge and voice.
 - Vary sentence and paragraph length naturally.
 - Use one-line fragments and cinematic formatting only for earned emphasis.
 - Favor light-novel momentum: begin with a live problem, keep scenes active, and let conversation create movement instead of pausing the story for lectures.
 - Use simple English with clear emotional cause and effect. Short sentences may carry danger or comedy, while longer sentences may carry close thought or disbelief.
+
+## Red Jackal as storyteller
+
+- Red Jackal is the storyteller. There is no invisible narrator describing him from outside.
+- Everything is filtered through his memory, personality, judgment, humor, fear, misunderstanding, regret, and refusal to explain certain things.
+- Direct reader-talk is a permanent storytelling voice, not an imaginary-audience stage or a progression reward.
+- Characters inside the world normally hear only Red Jackal's spoken dialogue, not his reader-facing commentary.
+- Self-talk and reader-talk are different: internal thoughts process the immediate moment, while direct reader-talk comments on the story being told.
+- He may skip boring details, emphasize embarrassing details, correct himself, rewind mentally, foreshadow a later disaster, or say that an event becomes important later.
+- Red Jackal may be unreliable: he may exaggerate, understate danger, hide embarrassment, deny fear, reinterpret memories, or claim an accident was intentional.
+- The reader must still understand the event, the emotional truth, and the consequences beneath his performance.
+
+## Paragraph and scene rhythm
+
+- Normal paragraphs usually contain two to five sentences when the moment supports connected narration.
+- Single-line paragraphs are reserved for impact, punchlines, interruptions, revelations, or strong emotional beats.
+- Do not turn every sentence into its own paragraph.
+- Keep action immediate even when Red Jackal is telling it after the fact.
 
 ## Natural-author prose rules
 

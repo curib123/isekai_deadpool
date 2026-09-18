@@ -37,9 +37,12 @@ Required checks:
 
 ## Point of view
 
-- use close third person unless an approved plan authorizes another viewpoint;
+- use first-person Red Jackal narration as the default from Chapter 1 onward;
 - keep knowledge, sensory access, and interpretation inside the viewpoint boundary;
 - distinguish what the character knows, suspects, remembers, assumes, and the reader knows;
+- filter every scene through Red Jackal's voice. There is no separate invisible narrator;
+- keep direct reader-talk permanent from Chapter 1 onward. Do not create an imaginary-audience-to-real-audience progression;
+- keep reader-talk distinct from spoken dialogue and immediate self-talk. Characters normally hear only what Red Jackal says aloud;
 - do not treat Red Jackal's fourth-wall authority as a late reveal; it is real and available from the first page;
 - do not reveal a future power, identity truth, or Great Design rule through narration before its approved reveal boundary.
 
@@ -79,7 +82,7 @@ Required checks:
 
 ## Fourth-wall authority guard
 
-Red Jackal has literal fourth-wall awareness from the origin-world opening. The synopsis, prologue, Chapter 1, and later chapters may show direct audience address, rewritten dialogue, corrected narration, altered scene direction, or storyline edits. These are not unlocks, stages, or progression rewards.
+Red Jackal has literal fourth-wall awareness from the origin-world opening. The synopsis, prologue, Chapter 1, and later chapters may show direct audience address, rewritten dialogue, corrected narration, altered scene direction, or storyline edits. These are not unlocks, stages, or progression rewards. His reader relationship stays fundamentally consistent; only his understanding of the world's Fate and Great Design may deepen.
 
 Make meaningful edits clear to the reader through close narration. Do not conceal the ability behind ambiguous coincidence or delay its truth until Arc 5. The Great Design's later reaction is an escalation of opposition, not the source of his authority.
 
