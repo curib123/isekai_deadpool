@@ -2,6 +2,15 @@
 
 This is the working drafting contract for future prologues, synopses, chapter plans, and numbered chapters. It is subordinate to the master story plan and approved canon.
 
+## Synopsis and prologue voice
+
+- The synopsis is written as Red Jackal speaking directly to the reader in first person, not as an objective third-person marketing summary.
+- The prologue is written in the same first-person conversational voice as the numbered chapters.
+- Both the synopsis and prologue may use direct reader-talk, self-correction, controlled foreshadowing, and Red Jackal's clear fourth-wall awareness from the beginning.
+- Neither format treats reader-talk or narrative editing as a later unlock, progression stage, or ambiguous imaginary audience.
+- Both formats follow the same rules for natural prose, unexpected situational comedy, transformed references, simple English, dialogue, paragraph rhythm, and serious consequences.
+- The synopsis may summarize only approved story direction. The prologue may dramatize only its authorized entry state; neither may reveal unresolved mysteries merely to create a stronger hook.
+
 ## Before drafting
 
 - classify the task and complete the context receipt;

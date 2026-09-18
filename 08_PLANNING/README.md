@@ -28,7 +28,7 @@ If the current authority does not establish a fact, record `UNKNOWN / NOT ESTABL
 ## Current setup status
 
 - Project status: structural pre-production.
-- Prologue and synopsis: `UNKNOWN / NOT ESTABLISHED` and not created; when authorized, both must present Red Jackal's real fourth-wall/narrative-editing authority rather than foreshadowing a later unlock.
+- Prologue and synopsis: `UNKNOWN / NOT ESTABLISHED` and not created; when authorized, both must be first-person Red Jackal storytelling with direct reader-talk and real fourth-wall/narrative-editing authority from their first line.
 - Volume count and volume titles: `UNKNOWN / NOT ESTABLISHED`.
 - Planning horizon: 10 provisional volumes x 30 provisional chapter slots;
 - Protagonist planning identity: Red Jackal; his unrestricted imagination and full fourth-wall/narrative-editing authority exist from the opening and do not progress.

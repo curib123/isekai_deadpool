@@ -23,6 +23,14 @@ This project follows the master plan's tonal and narrative intent. The guide is 
 - Red Jackal may be unreliable: he may exaggerate, understate danger, hide embarrassment, deny fear, reinterpret memories, or claim an accident was intentional.
 - The reader must still understand the event, the emotional truth, and the consequences beneath his performance.
 
+## Synopsis and prologue
+
+- The synopsis is Red Jackal's own direct explanation of the story he is about to tell us. Use first person, his conversational voice, and clear reader address.
+- The prologue is an actual Red Jackal-told scene, not an objective preview written by a separate narrator.
+- Synopsis and prologue reader-talk is real from their first line. Red Jackal may acknowledge the reader, revise a phrase, or comment on the shape of the story without waiting for a later reveal.
+- Keep both formats lively and concise, but do not turn every sentence into a joke or use a reference that replaces the actual premise and emotional stakes.
+- Preserve the same canon boundaries as chapter prose: no invented facts, no unapproved mystery answers, no copied franchise dialogue, and no consequence erasure.
+
 ## Paragraph and scene rhythm
 
 - Normal paragraphs usually contain two to five sentences when the moment supports connected narration.
