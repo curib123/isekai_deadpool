@@ -64,6 +64,15 @@ This setup produces planning documents only. Prose certification is `NOT APPLICA
 - required next gate: author approval of volume/chapter structure before numbered prose;
 - structural setup status: `PASS`.
 
+## Author approval reconciliation
+
+- approval received: Volume 01 - The Summoning Error, Chapters 001-030;
+- active parent authority: `08_PLANNING/VOLUME_01_THE_SUMMONING_ERROR.md`;
+- synopsis and prologue: authorized for drafting under the same first-person Red Jackal and permanent fourth-wall rules;
+- Chapter 001-030: authorized for drafting after task-specific context receipts and entry-state packets are completed;
+- Chapters 031-300 and Volumes 02-10: remain provisional;
+- publication certification: not applicable until prose exists and passes the required QA gates.
+
 ## Validation evidence
 
 - branch check: `PASS` - `master`;

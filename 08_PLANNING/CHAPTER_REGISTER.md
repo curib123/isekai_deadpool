@@ -11,6 +11,7 @@
 - numbered prose: not created;
 - minimum future chapter prose target: 1,000 words.
 - protagonist boundary: Red Jackal's unrestricted imagination anomaly is available from the opening; chapter progression tracks his choices and consequences, not an unlock sequence for that ability.
+- active drafting range: Volume 01, Chapters 001-030; Chapter 001 has the current entry-state packet.
 
 The master plan names five arcs but does not by itself authorize final chapter prose. The author-approved roadmap supplies provisional slots and working directions. A roadmap row is not canonized prose, and a working title becomes final only after author approval in the applicable book/volume and arc plans.
 

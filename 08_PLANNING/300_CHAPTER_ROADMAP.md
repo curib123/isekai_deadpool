@@ -4,7 +4,7 @@
 
 - planning horizon: 10 provisional volumes x 30 provisional chapter slots = 300 slots;
 - arc mapping: Volumes 01-02 Arc 1; Volumes 03-04 Arc 2; Volumes 05-06 Arc 3; Volumes 07-08 Arc 4; Volumes 09-10 Arc 5;
-- status: PROVISIONAL ROADMAP, not a locked final publication count;
+- status: PROVISIONAL ROADMAP overall; Volume 01 Chapters 001-030 are promoted to active drafting scope;
 - chapter titles and individual beats require chapter-level approval before prose;
 - every future chapter still requires a parent authority, entry state, permitted delta, exit state, story-memory reconciliation, and a 1,000-word target;
 - no future power, knowledge, reveal, relationship, or history fact listed here is current before its approved entry state;
@@ -18,7 +18,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 ## Volume 01 - The Summoning Error
 
 - arc mapping: Arc 1;
-- chapter range: 001-030 (provisional);
+- chapter range: 001-030 (approved active drafting range);
 - core promise: Introduce Red Jackal, the damaged protagonist, divine summoning, regeneration, the System, his sincere Deadpool identity, and the first signs of his foreign-code imagination anomaly.
 - identity boundary: I am Deadpool;
 - fourth-wall boundary: Full from the opening;
@@ -38,7 +38,7 @@ The roadmap supplies a long-range spine while preserving open possibilities. A v
 
 | Chapter | Working title | Function | Permitted boundary | Status |
 | --- | --- | --- | --- | --- |
-| Chapter 001 | Before the Isekai - The Deadpool Fan Dies | begins in the original world with Red Jackal as a Deadpool fan facing death; close first-person storytelling, simple English, lively dialogue, unexpected comedy, and clear fourth-wall awareness establish the opening voice before the isekai transition | Establish origin-world death and immediate narrative authority; do not delay or conceal fourth-wall truth | PROVISIONAL |
+| Chapter 001 | Before the Isekai - The Deadpool Fan Dies | begins in the original world with Red Jackal as a Deadpool fan facing death; close first-person storytelling, simple English, lively dialogue, unexpected comedy, and clear fourth-wall awareness establish the opening voice before the isekai transition | Establish origin-world death and immediate narrative authority; do not delay or conceal fourth-wall truth | AUTHORIZED FOR DRAFTING |
 | Chapter 002 | The Summoning Error - The Wrong Door | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 003 | The Summoning Error - What He Notices | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
 | Chapter 004 | The Summoning Error - A Question with Teeth | establishes the current entry pressure and a concrete immediate objective; exact scene events remain subject to chapter authority | Establish current state only | PROVISIONAL |
