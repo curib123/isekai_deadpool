@@ -56,3 +56,21 @@ This setup produces planning documents only. Prose certification is `NOT APPLICA
 - chapter count: `UNKNOWN / NOT ESTABLISHED`;
 - approved numbered manuscript: `UNKNOWN / NOT ESTABLISHED`;
 - detailed canon beyond the imported plan: `UNKNOWN / NOT ESTABLISHED`.
+
+## Structural setup result
+
+- prose produced: `NO`;
+- prose certification: `NOT APPLICABLE`;
+- required next gate: author approval of volume/chapter structure before numbered prose;
+- structural setup status: `PASS`.
+
+## Validation evidence
+
+- branch check: `PASS` - `master`;
+- required planning files: `PASS` - volume map, chapter register, and five arc plans present;
+- future-story manuscript check: `PASS` - no manuscript files; the pre-existing structural `09_FUTURE_STORY\README.md` is allowed;
+- unknown chapter structure check: `PASS` - chapter count, ranges, and titles remain `UNKNOWN / NOT ESTABLISHED`;
+- chapter length gate check: `PASS` - template contains the 1,000-word target, actual count field, and `UNCERTIFIED` below-target result;
+- arc count check: `PASS` - five master-plan-derived arc boundary files;
+- whitespace check: `PASS` - `git diff --check`;
+- prose certification: `NOT APPLICABLE`.
